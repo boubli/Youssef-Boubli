@@ -1,8 +1,9 @@
+
 ---
-layout: post
-title:  "Reverse Bit [CF]"
-date:   2016-05-22 04:04:23 +0700
-categories: [python, codefights]
+layout: article
+title: "Reverse Bit [CF]"
+date: 2018-01-13 19:45:00+0200
+coverPhoto: https://www.w3resource.com/w3r_images/python-19-reverse-the-digits-of-an-integer-unsigned.png
 ---
 
 Author Question: **Giappi**

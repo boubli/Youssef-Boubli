@@ -1,9 +1,12 @@
+
+
 ---
-layout: post
-title:  "Find Substrings for line Encoding [CF]"
-date:   2016-06-11 03:04:23 +0700
-categories: [python, codefights]
+layout: article
+title: "Find Substrings for line Encoding [CF]"
+date: 2018-01-13 19:45:00+0200
+coverPhoto:https://www.nltk.org/images/polish-utf8.png
 ---
+
 
 Given a string, return its encoding defined as follows:
 

@@ -1,16 +1,11 @@
----
-layout: post
-title:  "Simple bash scripting for login before open the terminal"
-date:   2016-04-19 19:19:21 +0700
-categories: [bash]
----
 
 ---
 layout: article
-title: Face Recognition using OpenCv
+title: "Simple bash scripting for login before open the terminal"
 date: 2018-01-13 19:45:00+0200
 coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png?raw=true
 ---
+
 
 Add this in your file of `/etc/bash.bashrc`, makesure you logged in as root.
 

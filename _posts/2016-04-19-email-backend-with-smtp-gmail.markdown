@@ -3,7 +3,7 @@
 layout: article
 title: "Email BackEnd with SMTP Gmail"
 date: 2018-01-13 19:45:00+0200
-coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png?raw=true
+coverPhoto: https://miro.medium.com/max/946/1*SmScNHqJkUIhbfnSb7SO0w.jpeg
 ---
 
 Add this configurations in your `settings.py`

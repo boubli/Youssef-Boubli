@@ -3,7 +3,7 @@
 layout: article
 title: "Simple bash scripting for login before open the terminal"
 date: 2018-01-13 19:45:00+0200
-coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png?raw=true
+coverPhoto:https://www.howtogeek.com/wp-content/uploads/2011/07/xbanner-011.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.wdDiV0Dmap.png
 ---
 
 

@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: article
 title:  "Javascript Validator for Input Number"
-date:   2016-04-26 04:19:22 +0700
-categories: [others]
+date: 2018-01-13 19:45:00+0200
+coverPhoto: http://findnerd.s3.amazonaws.com/imagedata/6374/6374.png
 ---
+
 
 This javascript will validate/allow the number only when event key is pressed.
 For example result of it:

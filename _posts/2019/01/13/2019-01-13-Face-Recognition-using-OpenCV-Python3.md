@@ -9,7 +9,9 @@ OpenCV (Open Source Computer Vision Library) is released under a BSD license and
 Adopted all around the world, OpenCV has more than 47 thousand people of user community and estimated number of downloads exceeding 14 million. Usage ranges from interactive art, to mines inspection, stitching maps on the web or through advanced robotics.
 
 `pip3 install opencv-python`
+
 `pip3 install numpy`
+
 `pip3 install opencv-contrib-python`
 
 #The first step

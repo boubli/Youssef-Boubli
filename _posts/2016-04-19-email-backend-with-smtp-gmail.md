@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: "Email BackEnd with SMTP Gmail"

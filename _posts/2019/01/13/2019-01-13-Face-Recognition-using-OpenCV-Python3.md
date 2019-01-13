@@ -17,7 +17,7 @@ Adopted all around the world, OpenCV has more than 47 thousand people of user co
 #The first step
 	* Open a file "face_datasets.py" that has been waiting for a minute that has been closed by pressing 'q'
 
-![](https://boubli.github.io/Youssef-Boubi/contents/images/2019/01/51076992-b390e100-1697-11e9-9be1-ed5c63a067a6.png)
+![](https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png)
 
 #The second step
  * Open a file "training.py" and wait for the image to be processed and converted to data XML Then, close the file

@@ -2,7 +2,7 @@
 layout: article
 title: Face Recognition using OpenCv
 date: 2018-01-13 19:45:00+0200
-coverPhoto: https://boubli.github.io/Youssef-Boubi/contents/images/2019/01/51076992-b390e100-1697-11e9-9be1-ed5c63a067a6.png
+coverPhoto: https://boubli.github.io/Youssef-Boubi/contents/images/2019/01/Opencv-python.png
 ---
 
 OpenCV (Open Source Computer Vision Library) is released under a BSD license and hence it’s free for both academic and commercial use. It has C++, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications. Written in optimized C/C++, the library can take advantage of multi-core processing. Enabled with OpenCL, it can take advantage of the hardware acceleration of the underlying heterogeneous compute platform.

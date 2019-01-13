@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Reverse Bit [CF]"
-date: 2018-01-13 19:45:00+0200
+date: 2016-04-19 19:45:00+0200
 coverPhoto: https://www.w3resource.com/w3r_images/python-19-reverse-the-digits-of-an-integer-unsigned.png
 ---
 

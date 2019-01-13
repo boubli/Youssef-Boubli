@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Javascript Validator for Input Number"
-date: 2018-01-13 19:45:00+0200
+date: 2016-04-19 19:45:00+0200
 coverPhoto: http://findnerd.s3.amazonaws.com/imagedata/6374/6374.png
 ---
 

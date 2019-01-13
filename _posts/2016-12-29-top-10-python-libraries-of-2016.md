@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Top 10 Python libraries of 2016"
-date: 2016-01-13 19:45:00+0200
+date: 2016-04-26 19:45:00+0200
 coverPhoto: https://tryolabs.com/images/blog/social/2017-12-19-top-10-python-libraries-2017.0a391e32.png
 ---
 

@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: "Simple bash scripting for login before open the terminal"

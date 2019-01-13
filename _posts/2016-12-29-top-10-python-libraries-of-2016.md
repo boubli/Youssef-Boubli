@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: "Top 10 Python libraries of 2016"

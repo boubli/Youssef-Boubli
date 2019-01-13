@@ -1,5 +1,3 @@
-
-
 ---
 layout: article
 title: "Replace backend gmail to Postmarkapp for Django"

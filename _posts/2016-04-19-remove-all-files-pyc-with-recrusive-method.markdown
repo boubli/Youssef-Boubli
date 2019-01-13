@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: "Remove all files .pyc with recrusive method"

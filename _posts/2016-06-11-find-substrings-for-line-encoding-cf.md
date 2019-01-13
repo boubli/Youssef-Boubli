@@ -1,5 +1,3 @@
-
-
 ---
 layout: article
 title: "Find Substrings for line Encoding [CF]"

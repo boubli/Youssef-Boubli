@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: "Reverse Bit [CF]"

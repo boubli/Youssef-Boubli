@@ -1,9 +1,11 @@
+
 ---
-layout: post
-title:  "Python Permutations"
-date:   2016-04-19 19:31:43 +0700
-categories: [python]
+layout: article
+title: "Python Permutations"
+date: 2018-01-13 19:45:00+0200
+coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png?raw=true
 ---
+
 This simply how to implement the module of permutations in python.
 
 {% highlight ruby %}

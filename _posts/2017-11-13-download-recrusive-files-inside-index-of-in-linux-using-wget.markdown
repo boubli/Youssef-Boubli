@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Download recrusive files inside index-of in Linux using wget"
-date:   2016-04-19 19:39:02 +0700
-categories: [bash]
+layout: article
+title: "Download recrusive files inside index-of in Linux using wget"
+date: 2017-11-13 19:45:00+0200
+coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png?raw=true
 ---
+
 ```
 $ wget -r --no-parent --reject "index.html*" http://125.160.17.22/dokumen/IGN/Panduan_OpenOffice.org_2.0/
 ```

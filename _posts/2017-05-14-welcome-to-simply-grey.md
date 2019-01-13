@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Welcome to Simply Grey"
-date:   2013-12-23 00:18:23 +0700
-categories: [jekyll]
+layout: article
+title: Face Recognition using OpenCv
+date: 2017-05-14 19:45:00+0200
+coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png?raw=true
 ---
 SimplyGrey is a simple, easy to use theme for Jekyll that compromises of mainly grey colours. A lot of people enjoy the simplistic look of grey and also find it easier to read.
 

@@ -1,9 +1,12 @@
+
 ---
-layout: post
-title:  "Remove all files .pyc with recrusive method"
-date:   2016-04-19 14:39:34 +0700
-categories: [python, bash]
+layout: article
+title: "Remove all files .pyc with recrusive method"
+date: 2018-01-13 19:45:00+0200
+coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png?raw=true
 ---
+
+
 
 This method simple but important. Example in your project dir is like this:
 

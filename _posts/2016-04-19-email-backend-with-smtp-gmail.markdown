@@ -1,9 +1,11 @@
+
 ---
-layout: post
-title:  "Email BackEnd with SMTP Gmail"
-date:   2016-04-19 02:28:15 +0700
-categories: [python, django]
+layout: article
+title: "Email BackEnd with SMTP Gmail"
+date: 2018-01-13 19:45:00+0200
+coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png?raw=true
 ---
+
 Add this configurations in your `settings.py`
 
 This configurations is if you work with `smtp.gmail.com`, other smtp is similiar with configurations.

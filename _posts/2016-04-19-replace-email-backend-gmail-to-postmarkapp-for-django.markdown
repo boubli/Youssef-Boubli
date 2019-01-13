@@ -1,9 +1,12 @@
+
+
 ---
-layout: post
-title:  "Replace backend gmail to Postmarkapp for Django"
-date:   2016-04-19 20:15:33 +0700
-categories: [django]
+layout: article
+title: "Replace backend gmail to Postmarkapp for Django"
+date: 2018-01-13 19:45:00+0200
+coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Opencv-python.png?raw=true
 ---
+
 
 #### 1. Install module of Python Postmark
 

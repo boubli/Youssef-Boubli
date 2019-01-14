@@ -2,7 +2,7 @@
 layout: article
 title: "Python Crazy Decrypter has been Released"
 date: 2015-05-19 19:45:00+0200
-coverPhoto: 
+coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/EBOOK_PYTHON_blog.png?raw=true
 ---
  
 

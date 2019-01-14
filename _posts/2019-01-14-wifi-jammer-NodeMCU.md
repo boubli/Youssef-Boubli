@@ -30,7 +30,7 @@ NodeMCU is an open source IoT platform It includes firmware which runs on the ES
  `esptool.py --port /dev/ttyUSB0 write_flash --flash_mode qio --flash_size 4MB 0x0 bootloader.bin 0x1000 my_app.bin`
 
 ---
-Chip	flash_size values
-ESP32	detect, 1MB, 2MB, 4MB, 8MB, 16MB
-ESP8266	detect, 256KB, 512KB, 1MB, 2MB, 4MB, 2MB-c1, 4MB-c1, 8MB, 16MB
+Chip:	flash_size values
+ESP32:	detect, 1MB, 2MB, 4MB, 8MB, 16MB
+ESP8266: detect, 256KB, 512KB, 1MB, 2MB, 4MB, 2MB-c1, 4MB-c1, 8MB, 16MB
 ---

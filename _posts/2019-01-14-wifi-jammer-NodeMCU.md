@@ -31,4 +31,10 @@ NodeMCU is an open source IoT platform It includes firmware which runs on the ES
  * open esptool file to flash EPS8266 all you need to do is open Termianl in Mac or cmd in Windows
 
  `esptool.py --port /dev/ttyUSB0 write_flash --flash_mode qio --flash_size 4MB 0x0 bootloader.bin 0x1000 my_app.bin`
-
+ 
+---
+layout: article
+title: "Wifi Jammer using NodMCU ESP8266"
+date: 2019-01-14 12:45:00+0200
+coverPhoto: https://miro.medium.com/max/946/1*SmScNHqJkUIhbfnSb7SO0w.jpeg
+---

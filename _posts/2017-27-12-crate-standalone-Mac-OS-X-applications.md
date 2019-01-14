@@ -30,11 +30,12 @@ else:
     # Python 3
     import tkinter as tk
 root = tk.Tk()
-root.title("Sandwich")
+root.title("MyApp")
 tk.Button(root, text="Make me a MyApp").pack()
 tk.mainloop()
 ```
-#Install py2app
+# Install py2app
+
 `$ pip install -U git+https://github.com/metachris/py2app.git@master`
 
 This setup.py is a basic definition of the app:
@@ -55,9 +56,54 @@ setup(
 ```
 
 If your application uses some data files, like a JSON, text files or images, you should include them in DATA_FILES. For example:
+
 `DATA_FILES = ['testdata.json', 'picture.png']`
 
+# Build the app for development and testing
 
+`$ python setup.py py2app -A`
+
+This creates the following files and directories:
+
+
+```
+	.
+	├── build
+	│   └── bdist.macosx-10.10-x86_64
+	│       └── python2.7-standalone
+	│           └── app
+	│               ├── Frameworks
+	│               ├── collect
+	│               ├── lib-dynload
+	│               └── temp
+	├── MyApp.py
+	├── dist
+	│   └── MyApp.app
+	│       └── Contents
+	│           ├── Info.plist
+	│           ├── MacOS
+	│           │   ├── MyApp
+	│           │   └── python -> /Users/chris/Projects/chris/python-gui/tkinter/env/bin/../bin/python
+	│           ├── PkgInfo
+	│           └── Resources
+	│               ├── __boot__.py
+	│               ├── __error__.sh
+	│               ├── lib
+	│               │   └── python2.7
+	│               │       ├── config -> /Users/chris/Projects/chris/python-gui/tkinter/env/bin/../lib/python2.7/config
+	│               │       └── site.pyc -> ../../site.pyc
+	│               ├── site.py
+	│               └── site.pyc
+	└── setup.py
+```
+
+This is not a standalone application, and the applications built in alias mode are not portable to other machines!
+
+The app built with alias mode simply references the original code files, so any changes you make to the original MyApp.py file are instantly available on the next app start.
+
+The resulting development app in dist/MyApp.app can be opened just like any other .app with the Finder or the open command ($ open dist/MyApp.app). To run your application directly from the Terminal you can just run:
+
+`$ ./dist/MyApp.app/Contents/MacOS/MyApp`
 
 
 

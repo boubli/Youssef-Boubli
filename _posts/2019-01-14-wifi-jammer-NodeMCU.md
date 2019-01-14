@@ -2,6 +2,7 @@
 layout: article
 title: "Wifi Jammer using NodMCU ESP8266"
 date: 2019-01-14 12:45:00+0200
+<<<<<<< HEAD
 coverPhoto: https://miro.medium.com/max/946/1*SmScNHqJkUIhbfnSb7SO0w.jpeg
 ---
 
@@ -12,6 +13,20 @@ NodeMCU is an open source IoT platform It includes firmware which runs on the ES
 `Download source code` [Here](https://github.com/boubli/Wifi-Jammer-NodeMCU/archive/master.zip)
 
 <iframe width="873" height="512" src="https://www.youtube.com/embed/zD2M8a9pqCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+coverPhoto: https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Screen%20Shot%202019-01-14%20at%2012.49.38%20AM.png?raw=true
+---
+
+![](https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Screen%20Shot%202019-01-14%20at%2012.50.01%20AM.png?raw=true)
+
+NodeMCU is an open source IoT platform It includes firmware which runs on the ESP8266 Wi-Fi SoC from Espressif Systems, and hardware which is based on the ESP-12 module. The term "NodeMCU" by default refers to the firmware rather than the development kits. The firmware uses the Lua scripting language. It is based on the eLua project, and built on the Espressif Non-OS SDK for ESP8266. It uses many open source projects, such as lua-cjson[8] and SPIFFS.
+
+![](https://github.com/boubli/Youssef-Boubli/blob/gh-pages/contents/images/2019/01/Screen%20Shot%202019-01-13%20at%2011.12.02%20PM.png?raw=true)
+
+`Download source code` [Here](https://github.com/boubli/Wifi-Jammer-NodeMCU/archive/master.zip)
+
+
+<center><iframe width="600" height="300" src="https://www.youtube.com/embed/zD2M8a9pqCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 {% highlight html %}
 
@@ -28,9 +43,8 @@ NodeMCU is an open source IoT platform It includes firmware which runs on the ES
  * open esptool file to flash EPS8266 all you need to do is open Termianl in Mac or cmd in Windows
 
  `esptool.py --port /dev/ttyUSB0 write_flash --flash_mode qio --flash_size 4MB 0x0 bootloader.bin 0x1000 my_app.bin`
+<<<<<<< HEAD
 
----
-Chip	flash_size values
-ESP32	detect, 1MB, 2MB, 4MB, 8MB, 16MB
-ESP8266	detect, 256KB, 512KB, 1MB, 2MB, 4MB, 2MB-c1, 4MB-c1, 8MB, 16MB
----
+
+ 
+

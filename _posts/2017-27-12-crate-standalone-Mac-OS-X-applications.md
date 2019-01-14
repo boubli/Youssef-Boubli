@@ -31,9 +31,31 @@ else:
     import tkinter as tk
 root = tk.Tk()
 root.title("Sandwich")
-tk.Button(root, text="Make me a Sandwich").pack()
+tk.Button(root, text="Make me a MyApp").pack()
 tk.mainloop()
 ```
+#Install py2app
+`$ pip install -U git+https://github.com/metachris/py2app.git@master`
+
+This setup.py is a basic definition of the app:
+
+```cmd
+from setuptools import setup
+
+APP = [MyApp.py']
+DATA_FILES = []
+OPTIONS = {'argv_emulation': True}
+
+setup(
+    app=APP,
+    data_files=DATA_FILES,
+    options={'py2app': OPTIONS},
+    setup_requires=['py2app'],
+)
+```
+
+If your application uses some data files, like a JSON, text files or images, you should include them in DATA_FILES. For example:
+`DATA_FILES = ['testdata.json', 'picture.png']`
 
 
 

@@ -2,7 +2,7 @@
 layout: article
 itle:  "Remove all files .pyc with recrusive method"
 date:   2016-04-19 14:39:34 +0700
-coverPhoto: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaB5i_LJPShXqmBhvAP42Hw_MSXxLPzWSpSBMB3ekJGFC8w4rQPA
+coverPhoto: https://raw.githubusercontent.com/microsoft/vscode-python/master/images/unittest.gif
 ---
 
 This method simple but important. Example in your project dir is like this:

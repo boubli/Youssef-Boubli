@@ -2,7 +2,7 @@
 layout: article
 title: Grid css train ticket
 date: 2019-01-14 19:45:00+0200
-coverPhoto: https://cdn-images-1.medium.com/max/1600/1*ZXixptvL4rzkx3EDuj38xw.jpeg
+coverPhoto: https://css-tricks.com/wp-content/uploads/2018/05/css-art.jpg
 ---
 
 

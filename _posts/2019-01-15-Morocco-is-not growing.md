@@ -2,7 +2,7 @@
 layout: article
 title: "Morocco is a backward country"
 date: 2019-01-15 19:45:00+0200
-coverPhoto: https://cdn.worldvectorlogo.com/logos/morocco.svg
+coverPhoto:http://www.drapeauxdespays.fr/data/flags/ultra/ma.png
 ---
 
 Some indicators say that Morocco is growing and that it is the best AfricanSome indicators say that Morocco is growing and that it is the best African and Arab country. But this is not true.
@@ -20,3 +20,9 @@ But despite these circumstances, Morocco can progress on many Arab countries suc
 ![](http://emerging-markets-research.hktdc.com/resources/MI_Portal/Article/mp/2010/02/310645/1540451547637_MAN2lpoliticsriskEN_310645.jpg)
 
 As we can see in the picture above, the technology index is high compared to the Arab countries, but unfortunately we need support for this category. Moral support through the provision of services and schools to learn and create awareness campaigns for the advancement of the digital world in Morocco.
+
+# Some images of the study of technology in Morocco
+
+![](https://www.moroccoworldnews.com/wp-content/uploads/2015/01/classe-nt.jpg)
+![](https://www.moroccoworldnews.com/wp-content/uploads/2014/03/Moroccan-Students-in-the-University-of-Meknes-Morocco.jpg)
+![](https://www.challenge.ma/wp-content/uploads/2018/11/Tech-Camp.jpg)

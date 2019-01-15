@@ -2,7 +2,7 @@
 layout: article
 title: "Morocco is a backward country"
 date: 2019-01-15 19:45:00+0200
-coverPhoto: http://www.drapeauxdespays.fr/data/flags/ultra/ma.png
+coverPhoto: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%D8%A7%D9%84%D9%84%D8%A7%D9%84%D8%A7%D9%84.png/640px-%D8%A7%D9%84%D9%84%D8%A7%D9%84%D8%A7%D9%84.png
 ---
 
 Some indicators say that Morocco is growing and that it is the best AfricanSome indicators say that Morocco is growing and that it is the best African and Arab country. But this is not true.

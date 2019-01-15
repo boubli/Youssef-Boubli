@@ -25,7 +25,7 @@ Now that your environment is set up, you’re going to need to install the libra
 
 Navigate to the directory where you want this code to live and run the following command in your terminal with your virtual environment activated to install these dependencies:
 
-```cmd
+```python
 pip install requests==2.13.0 twilio==6.0.0 flask==0.12.1
 ```
 
@@ -53,7 +53,7 @@ What we’re doing here is sending a request using the `requests` module to the 
 ![](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/original_images/h8izjko1F-KJd0nWj0DcJF3vJ81Fk5wGhd1d3eRE38V9AqDua1SIQWIuicJf_LwtNsJVQfOCN_.png)
 
 # Setting up your Twilio account
-Before being able to respond to messages, you’ll need a Twilio phone number. You can buy a phone number here.
+Before being able to respond to messages, you’ll need a Twilio phone number. [You can buy a phone number here.](https://www.twilio.com/login?g=%2Fconsole%2Fphone-numbers%2Fsearch&t=d2b893c53453f19cce11f21a7ebd163b95c907ecada1348e7d50719f1c6c4b8e)
 
 Your Flask app will need to be visible from the Internet in order for Twilio to send requests to it. We will use ngrok for this, which you’ll need to install if you don’t have it. In your terminal run the following command:
 ```python

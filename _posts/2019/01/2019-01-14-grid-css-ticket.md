@@ -7,84 +7,95 @@ coverPhoto: https://css-tricks.com/wp-content/uploads/2018/05/css-art.jpg
 
 
 {::nomarkdown}
-.main-content
-	.ticket
-		.ticket__main
-			.header Hogwarts Express
-			.info.passenger
-				.info__item Passenger
-				.info__detail Hermione J. Granger
-			.info.platform 
-				span Depart 
-				span from 
-				span platform
-				div.number
-					div 9
-					div 
-						span 3
-						span 4
-			.info.departure
-				.info__item Depart
-				.info__detail King's Cross
-			.info.arrival
-				.info__item Arrive
-				.info__detail Hogsmeade
-			.info.date
-				.info__item Date
-				.info__detail 1 Sep 2018
-			.info.time
-				.info__item Time
-				.info__detail 11:00AM
-			.info.carriage
-				.info__item car
-				.info__detail 4
-			.info.seat
-				.info__item Seat
-				.info__detail 6B
-			.fineprint 
-				p Boarding begins 30 minutes before departure. Snacks available for purchase from The Honeydukes Express.
-				p This ticket is Non-refundable • Hogwarts Express Railway Authority
-			.snack
-				svg(viewBox="0 -11 414.00053 414")
-					path(d="m202.480469 352.128906c0-21.796875-17.671875-39.46875-39.46875-39.46875-21.800781 0-39.472657 17.667969-39.472657 39.46875 0 21.800782 17.671876 39.472656 39.472657 39.472656 21.785156-.023437 39.445312-17.683593 39.46875-39.472656zm0 0")
-					path(d="m348.445312 348.242188c2.148438 21.691406-13.695312 41.019531-35.390624 43.167968-21.691407 2.148438-41.015626-13.699218-43.164063-35.390625-2.148437-21.691406 13.695313-41.019531 35.386719-43.167969 21.691406-2.148437 41.019531 13.699219 43.167968 35.390626zm0 0")
-					path(d="m412.699219 63.554688c-1.3125-1.84375-3.433594-2.941407-5.699219-2.941407h-311.386719l-3.914062-24.742187c-3.191407-20.703125-21.050781-35.9531252-42-35.871094h-42.699219c-3.867188 0-7 3.132812-7 7s3.132812 7 7 7h42.699219c14.050781-.054688 26.03125 10.175781 28.171875 24.0625l33.800781 213.515625c3.191406 20.703125 21.050781 35.957031 42 35.871094h208.929687c3.863282 0 7-3.132813 7-7 0-3.863281-3.136718-7-7-7h-208.929687c-14.050781.054687-26.03125-10.175781-28.171875-24.0625l-5.746094-36.300781h213.980469c18.117187-.007813 34.242187-11.484376 40.179687-28.597657l39.699219-114.578125c.742188-2.140625.402344-4.511718-.914062-6.355468zm0 0")
-			.barcode
-				.barcode__scan
-				.barcode__id 001256733
-				
-				
-		.ticket__side
-			.logo 
-				p Hogwarts Express
-			.info.side-arrive
-				.info__item Arrive
-				.info__detail Hogsmeade
-			.info.side-depart
-				.info__item Depart
-				.info__detail King's Cross
-			
-			.info.side-date
-				.info__item Date
-				.info__detail 1 Sep 2018
-			.info.side-time
-				.info__item Time
-				.info__detail 11:00AM
-			.barcode
-				.barcode__scan
-				.barcode__id 001256733
+<script type="text/javascript">
+	TweenMax.set('svg', {
+  visibility: 'visible'
+})
+TweenLite.defaultEase = Linear.easeNone;
 
-aside.context
-	.explanation
-		| Part of the 
-		a(href="https://codepen.io/collection/DQvYpQ/" target="_blank") CSS Grid collection here
-		| .
+var leftTl = new TimelineMax({paused: false, repeat: -1}).timeScale(1.92);
+leftTl.to('.boxesL path:first-child', 1, {
+ y: 26
+}).to('.boxesL path:first-child', 1, {
+ rotation: 180,
+ transformOrigin: '127% 0%'/* ,
+ ease: Elastic.easeOut.config(0.1, 0.8) */
+}, 0)
+ .to('.boxesL path:nth-child(2)', 1, {
+ y: -40
+}, 0)
+ .to('.boxesL path:nth-child(3)', 1, {
+ y: -40
+}, 0)
 
-footer
-	a(href="https://twitter.com/meowlivia_" target="_blank")
-		i.icon-social-twitter.icons
-	a(href="https://github.com/oliviale" target="_blank")
-		i.icon-social-github.icons
-	a(href="https://dribbble.com/oliviale" target="_blank")
-		i.icon-social-dribbble.icons
+.to('.boxesM path:first-child', 1, {
+ y: 40
+}, 0)
+ .to('.boxesM path:nth-child(2)', 1, {
+ y: 40
+}, 0)
+.to('.boxesM path:nth-child(3)', 1, {
+ rotation: 180,
+ transformOrigin: '-27% 100%'/* ,
+ ease: Elastic.easeOut.config(0.8, 0.8) */
+}, 0)
+.to('.boxesM path:nth-child(3)', 1, {
+ y: -26
+}, 0)
+
+/* var nestedTl = new TimelineMax();
+nestedTl.add(leftTl);
+
+var mainTl = new TimelineMax({repeat: -1})
+mainTl.to(nestedTl, 10, {
+ time: 2, 
+ ease: Elastic.easeOut.config(0.7, 0.16)
+}) */
+TweenMax.set('.whole', {
+ rotation: 90,
+ transformOrigin: '50% 50%'
+})
+</script>
+<style type="text/css">
+	body {
+  background-color:#086788;
+  overflow: hidden;
+  text-align:center;
+}
+
+body,
+html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+svg{
+  width:100%;
+  height:100%;
+  visibility:hidden;
+}
+
+
+</style>
+<svg viewBox="200 150 400 300" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+      <path class="pathR" d="M400.5,245V356A19.5,19.5,0,0,0,420,375.5h0A19.5,19.5,0,0,0,439.5,356V245A19.5,19.5,0,0,0,420,225.5h0A19.5,19.5,0,0,0,400.5,245Z" fill="none" stroke="#000" stroke-miterlimit="10"/>
+      <path class="pathL" d="M380.5,375.5h0a20.06,20.06,0,0,1-20-20v-110a20.06,20.06,0,0,1,20-20h0a20.06,20.06,0,0,1,20,20v110A20.06,20.06,0,0,1,380.5,375.5Z" fill="none" stroke="#000" stroke-miterlimit="10"/>  
+  </defs>
+   <g class="whole" fill="#FFF1D0">    
+    <g class="boxesL" >
+          <path d="M387,253v14H373V253h14m6-6H367v26h26V247Z"/>
+          <path d="M387,293v14H373V293h14m6-6H367v26h26V287Z"/>
+          <path d="M387,333v14H373V333h14m6-6H367v26h26V327Z"/>
+        </g>
+        <g class="boxesM" >
+          <path d="M427,253v14H413V253h14m6-6H407v26h26V247Z"/>
+          <path d="M427,293v14H413V293h14m6-6H407v26h26V287Z"/>
+          <path d="M427,333v14H413V333h14m6-6H407v26h26V327Z"/>
+        </g> 
+ </g>
+</svg>
 {:/}

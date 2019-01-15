@@ -7,7 +7,7 @@ lang: en
 locale: en_US
 
 # Jekyll
-paginate: 20
+paginate: 10
 highlighter: rouge
 markdown: kramdown
 plugins: [jekyll-paginate]

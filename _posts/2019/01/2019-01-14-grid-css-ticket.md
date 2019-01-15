@@ -6,10 +6,8 @@ coverPhoto: https://cdn-images-1.medium.com/max/1600/1*ZXixptvL4rzkx3EDuj38xw.jp
 ---
 
 
-<html>
-<body>
-
-	.main-content
+{::nomarkdown}
+.main-content
 	.ticket
 		.ticket__main
 			.header Hogwarts Express
@@ -89,6 +87,4 @@ footer
 		i.icon-social-github.icons
 	a(href="https://dribbble.com/oliviale" target="_blank")
 		i.icon-social-dribbble.icons
-
-</body>
-</html>
+{:/}

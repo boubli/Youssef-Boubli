@@ -9,7 +9,7 @@ coverPhoto: https://cdn-images-1.medium.com/max/1600/1*ZXixptvL4rzkx3EDuj38xw.jp
 ![](https://cdn-images-1.medium.com/max/1600/1*ZXixptvL4rzkx3EDuj38xw.jpeg)
 
 
-#Lesson requirements
+# Lesson requirements
 1- If you are a Windows user, you must install Python-2.6.4 and can download it from Python.org. Linux distribution users are automatically installed with the system.
 2 - Read the Python language lesson catalog
 

@@ -116,18 +116,17 @@ Example of assigning more than a textual and numerical value to more than one va
 ```python
 	>>> a = ‘I’
 
->>> b = ‘am’
+	>>> b = ‘am’
 
->>> c = 10
+	>>> c = 10
 
->>> d = 12
+	>>> d = 12
 
->>> e = ‘years’
+	>>> e = ‘years’
 
->>> f = ‘old’
+	>>> f = ‘old’
 
->>> print a ,b , c + d ,e , f
-
+	>>> print a ,b , c + d ,e , f
 
 ```
 

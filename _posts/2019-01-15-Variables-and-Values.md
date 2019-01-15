@@ -19,7 +19,7 @@ The variable starts with a number that is wrong and correct is :
 
  *Also, we can not use special characters to name variables such as # @ / $.
  *Also, you can not name variables with reserved names in the following list:
-```
+```terminal
 and  
 
 assert

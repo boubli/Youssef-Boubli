@@ -5,6 +5,9 @@ date: 2019-01-13 19:45:00+0200
 coverPhoto: https://1504253206.rsc.cdn77.org/wp-content/uploads/2015/11/Python-logo.png
 ---
 
+![](https://1504253206.rsc.cdn77.org/wp-content/uploads/2015/11/Python-logo.png)
+
+
 # Features
 Python is a programming language that is easy to write and read, and is recommended for those who want to enter the world of programming for the first time, easy to learn and powerful in performance and results, can be combined with other programming languages ​​such as C and C ++, and uses Object Oriented Programming, The source is scalable, multi-purpose, with a huge library and an active community.
 

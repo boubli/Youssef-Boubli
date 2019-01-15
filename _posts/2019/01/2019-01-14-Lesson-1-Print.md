@@ -5,6 +5,10 @@ date: 2019-01-14 19:45:00+0200
 coverPhoto: https://2.bp.blogspot.com/-gODWRC76DDk/WdDKEfsB7cI/AAAAAAAAACU/fjVAjYqT42MaFQqRuA4HiTEW5w9MtlZbwCLcBGAs/w1200-h630-p-k-no-nu/print_1.PNG
 ---
 
+
+![](https://2.bp.blogspot.com/-gODWRC76DDk/WdDKEfsB7cI/AAAAAAAAACU/fjVAjYqT42MaFQqRuA4HiTEW5w9MtlZbwCLcBGAs/w1200-h630-p-k-no-nu/print_1.PNG)
+
+
 #Lesson requirements
 	1- If you are a Windows user, you must install Python-2.6.4 and can download it from Python.org. Linux distribution users are automatically installed with the system.
 	2 - Read the Python language lesson catalog

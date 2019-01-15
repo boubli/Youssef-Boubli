@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Python is simple
-date: 2015-02-13 19:45:00+0200
+date: 2016-02-13 19:45:00+0200
 coverPhoto: https://1504253206.rsc.cdn77.org/wp-content/uploads/2015/11/Python-logo.png
 ---
 

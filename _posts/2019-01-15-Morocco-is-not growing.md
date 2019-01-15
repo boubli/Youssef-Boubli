@@ -10,19 +10,7 @@ Some indicators say that Morocco is growing and that it is the best AfricanSome 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ad/Morocco%2C_Trends_in_the_Human_Development_Index_1970-2010.png)
 
 It is nonsense. In my opinion, the country that does not manufacture is not growing.It is approaching growth. Morocco is a peasant country but it has problems and poverty in agriculture. And the lack of mechanization in the agricultural sector.
-<dl>
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<ins class="adsbygoogle"
-	     style="display:block; text-align:center;"
-	     data-ad-layout="in-article"
-	     data-ad-format="fluid"
-	     data-ad-client="ca-pub-5692999531908344"
-	     data-ad-slot="2162046565"></ins>
-	<script>
-	     (adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
 
-</dl>
 
 ![](http://www.ocppc.ma/ckfinder/userfiles/images/F2OCPPC-PB1627vEn.png)
 

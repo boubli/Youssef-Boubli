@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Lesson 1 "Print"
+title: Lesson 1 Python "Print"
 date: 2019-01-14 19:45:00+0200
 coverPhoto: https://cdn-images-1.medium.com/max/1600/1*ZXixptvL4rzkx3EDuj38xw.jpeg
 ---

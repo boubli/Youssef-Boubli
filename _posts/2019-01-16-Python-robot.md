@@ -26,7 +26,7 @@ Now that your environment is set up, you’re going to need to install the libra
 Navigate to the directory where you want this code to live and run the following command in your terminal with your virtual environment activated to install these dependencies:
 
 ```python
-pip install requests==2.13.0 twilio==6.0.0 flask==0.12.1
+	1 pip3 install requests==2.13.0 twilio==6.0.0 flask==0.12.1
 ```
 
 # Requesting data from other APIs
@@ -111,7 +111,7 @@ We only need one route on this app: `/sms` to handle incoming text messages.
 Run your code with the following terminal command:
 
 ```python
-	python app.py
+	python3 app.py
 ```
 Now text your Twilio number to literally communicate with a robot on Mars!
 

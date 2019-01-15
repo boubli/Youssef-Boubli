@@ -6,7 +6,7 @@ coverPhoto: https://cdn-images-1.medium.com/max/1600/1*ZXixptvL4rzkx3EDuj38xw.jp
 ---
 
 
-![](https://2.bp.blogspot.com/-gODWRC76DDk/WdDKEfsB7cI/AAAAAAAAACU/fjVAjYqT42MaFQqRuA4HiTEW5w9MtlZbwCLcBGAs/w1200-h630-p-k-no-nu/print_1.PNG)
+![](https://cdn-images-1.medium.com/max/1600/1*ZXixptvL4rzkx3EDuj38xw.jpeg)
 
 
 #Lesson requirements

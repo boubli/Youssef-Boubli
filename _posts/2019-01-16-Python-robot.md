@@ -7,12 +7,12 @@ coverPhoto: https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/NASA_Mar
 
 ![](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/original_images/h8izjko1F-KJd0nWj0DcJF3vJ81Fk5wGhd1d3eRE38V9AqDua1SIQWIuicJf_LwtNsJVQfOCN_.png)
 
-NASA has a bunch of awesome APIs which give you programmatic access to the wonders of space. I think the Mars Rover Photos API in particular is really amazing as you can use it to see what kind of pictures the Mars Curiosity rover has been taking.
+NASA has a bunch of [awesome APIs](https://api.nasa.gov/index.html) which give you programmatic access to the wonders of space. I think the Mars [Rover Photos API](https://api.nasa.gov/api.html#MarsPhotos) in particular is really amazing as you can use it to see what kind of pictures the Mars Curiosity rover has been taking.
 
-Let’s build an app using the Mars Rover API with Twilio MMS, Python and Flask to make it so that we can text a phone number and receive pictures from Mars.
+Let’s build an app using the Mars Rover API with [Twilio MMS,](https://www.twilio.com/docs/quickstart/python/sms/hello-monkey) Python and Flask to make it so that we can text a phone number and receive pictures from Mars.
 
-Setting up your environment
-Before moving on, make sure to have your environment setup. Getting everything working correctly, especially with respect to virtual environments is important for isolating your dependencies if you have multiple projects running on the same machine.
+# Setting up your environment
+Before moving on, make sure to have your [environment setup.](https://www.twilio.com/docs/usage/tutorials/how-to-set-up-your-python-and-flask-development-environment#create-a-simple-flask-application) Getting everything working correctly, especially with respect to virtual environments is important for isolating your dependencies if you have multiple projects running on the same machine.
 
 You can also run through this guide to make sure you’re good to go before moving on.
 

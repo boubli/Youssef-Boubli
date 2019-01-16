@@ -119,6 +119,16 @@
     </div>
   </div>
 
+  <div class="column">
+    <div class="card">
+      <img src="https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/46914953_564720273949667_376399543568171008_n.jpg?_nc_cat=108&_nc_ht=scontent-mrs1-1.xx&oh=bb51002ba92b617b06dde485a0fa6582&oe=5CCE2CAC" alt="Jane" style="width:100%">
+      <div class="container">
+        <center><h4>Yassine Elkarfaoui</h4></center>
+        <center><p class="title">podcaster</p></center><br />
+      </div>
+    </div>
+  </div>
+
 <br />
 <br />
 <br />

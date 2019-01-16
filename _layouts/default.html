@@ -5,7 +5,7 @@ layout: htmlCompressor
 <!DOCTYPE html>
 <html lang="{{ site.lang }}" itemscope itemtype="http://schema.org/WebPage">
 <head>
-
+  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
   <!-- SEO -->
   <title>{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}</title>
   <meta name="description" content="{% if page.title %}{{ page.content | strip_html | slice: 0, 150 }}{% elsif site.description %}{{ site.description }}{% endif %}">

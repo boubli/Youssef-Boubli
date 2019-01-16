@@ -113,4 +113,15 @@
     </div>
   </div>
 
+  <div class="column">
+    <div class="card">
+      <img src="https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/16807637_1289878277757554_7375736009296176677_n.jpg?_nc_cat=104&_nc_ht=scontent-mrs1-1.xx&oh=5758ee5d3be91deaf53750ea2423f82f&oe=5CB553D4" alt="Jane" style="width:100%">
+      <div class="container">
+        <center><h4>Adam Dihaj</h4></center>
+        <center><p class="title">Circle of Science & Technologies</p></center><br />
+        <p><button class="button"><a style="color: #FFF" target="__new" href="https://www.facebook.com/profile.php?id=100002061827724">Contact</a></button></p><br />
+      </div>
+    </div>
+  </div>
+
 </div>

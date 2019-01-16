@@ -146,27 +146,30 @@ figure .contact a {
 </style>
 <br />
 
-<figure>
-  <img src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">
-  <div class="contact">
-    <a href="" class="tw"></a>
-    <a href="" class="fb"></a>
-    <a href="" class="gp"></a>
-    <a href="" class="ma"></a>
+<center>
+  <figure>
+    <img src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">
+    <div class="contact">
+      <a href="" class="tw"></a>
+      <a href="" class="fb"></a>
+      <a href="" class="gp"></a>
+      <a href="" class="ma"></a>
+    </div>
+  </figure>
+</center>
+
+<center>
+  <h2 id="name">YOUSSEF BOUBLI</h2>
+  <p>programmer & designer</p>
+  <br />
+
+  <div class="drrT">
+  	<p style="text-align: left;margin: 10px">Youssef Boubli 18 years old i was born in Geuilmim, i live in Agadir, Morocco, im programmer and designer i like Python language. <br /> 
+  		A mysterious character I like to be isolated and singled out people for this work friends call me a Matrix because I am like his actions and actions but the name I like and which I call myself Raymond is a fictional character but I love this name. <br />
+  		To learn programming through watching YouTube videos quickly I absorbed the lessons in a week I started to deepen the programming I did not study programming in institutes or colleges, but I think to study in the future in order to obtain a certificate. <br />
+  	</p>
   </div>
-</figure>
-
-
-<h2 id="name">YOUSSEF BOUBLI</h2>
-<p>programmer & designer</p>
-<br />
-
-<div class="drrT">
-	<p style="text-align: left;margin: 10px">Youssef Boubli 18 years old i was born in Geuilmim, i live in Agadir, Morocco, im programmer and designer i like Python language. <br /> 
-		A mysterious character I like to be isolated and singled out people for this work friends call me a Matrix because I am like his actions and actions but the name I like and which I call myself Raymond is a fictional character but I love this name. <br />
-		To learn programming through watching YouTube videos quickly I absorbed the lessons in a week I started to deepen the programming I did not study programming in institutes or colleges, but I think to study in the future in order to obtain a certificate. <br />
-	</p>
-</div>
+</center>
 
 
 <br />

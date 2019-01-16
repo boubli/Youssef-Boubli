@@ -1,90 +1,5 @@
 <style type="text/css">
-	*{}
-  body {
-  text-align: center;
-  background: #fff;
-}
-figure {
-  position: relative;
-  display: inline-block;
-  overflow: hidden;
-  width: 136px; height: 148px;
-  margin-right: 30px;
-  margin-top: 30px;
-}
-
-/** Hexagon Mask **/
-figure:before {
-  z-index: 3;
-  position: absolute;
-  display: block;
-  content: '';
-  top: 0; left: 0;
-  width: 100%; height: 100%;
-  background: url(https://leadergamer.com.tr/wp-content/themes/lgm/images/team-mask-1.png) no-repeat;
-  pointer-events: none;
-}
-figure img {
-  display: block;
-  width: auto; height: 100%;
-}
-
-/** Contact Links **/
-figure .contact {
-  z-index: 2;
-  position: absolute;
-  display: block;
-  top: 0; left: 0; right: 0; bottom: 0;
-}
-.contact a {
-  background-image: url(https://leadergamer.com.tr/wp-content/themes/lgm/images/level-1-c.png);
-}
-figure .contact a {
-  position: absolute;
-  display: block;
-  width: 50%; height: 50%;
-  background-repeat: no-repeat;
-  transition: all .25s ease-in-out;
-}
-  figure .contact .tw {
-    top: 0; left: 0;
-    background-color: rgba(0, 172, 238, .7);
-    background-position: 30px 32px;
-    transform: translate(-100%, -100%);
-  }
-    figure .contact .tw:hover {
-      background-color: rgba(0, 172, 238, 1);
-    }
-  figure .contact .fb {
-    top: 0; right: 0;
-    background-color: rgba(59, 89, 152, .7);
-    background-position: -42px 32px;
-    transform: translate(100%, -100%);
-  }
-    figure .contact .fb:hover {
-      background-color: rgba(59, 89, 152, 1);
-    }
-  figure .contact .gp {
-    bottom: 0; left: 0;
-    background-color: rgba(221, 75, 57, .7);
-    background-position: 30px -40px;
-    transform: translate(-100%, 100%);
-  }
-    figure .contact .gp:hover {
-      background-color: rgba(221, 75, 57, 1);
-    }
-  figure .contact .ma {
-    bottom: 0; right: 0;
-    background-color: rgba(153, 153, 153, .7);
-    background-position: -42px -40px;
-    transform: translate(100%, 100%);
-  }
-    figure .contact .ma:hover {
-      background-color: rgba(153, 153, 153, 1);
-    }
-    figure:hover .contact a {
-      transform: translate(0, 0);
-    }
+	
 	#name:hover{color: #00a8ff}
 	.drrT{ border: 1px solid #DDD; background: #2f3640; color: #dcdde1; padding: 5px}
 	#AsA:hover{transform: rotate(1000deg); border: 1px #00a8ff}
@@ -146,17 +61,121 @@ figure .contact a {
 </style>
 <br />
 
-<center>
-  <figure>
-    <img src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">
-    <div class="contact">
-      <a href="" class="tw"></a>
-      <a href="" class="fb"></a>
-      <a href="" class="gp"></a>
-      <a href="" class="ma"></a>
-    </div>
-  </figure>
-</center>
+<div class="container" style="padding-top: 130px;margin-bottom:48px;">
+        <div class="row">
+            <div class="team">
+                <div class="teamimg"></div>
+                <h4 style="text-align:center;margin-bottom: 2px;margin-top: 25px;">Alex Morrison</h4>
+                <p style="text-align:center;">GRAPHIC DESIGNER / CO-FOUNDER</p>
+                <p style="text-align:center;margin-top: -14px;margin-bottom:-8px;padding:23px;">Maecenas non elit egestas, interdum elit eget, ornare massa. Vestibulum imperdiet urna at rutrum interdum. Nullam luctus lorem non magna commodo mattis. Curabitur pharetra pulvinar quam et viverra. Duis interdum et nunc sed laoreet. Cras
+                    ultrices dolor id ipsum malesuada congue.Quisque luctus.</p>
+                <div class="teamsocial">
+                    <ul>
+                        <li style="margin-left:35px;float:left;list-style: none outside none;">
+                            <a href="#" title="Facebook">
+                                <div class="facebook-team">
+                                  <i class="fa fa-facebook"></i>
+                                </div>
+                            </a>
+                        </li>
+                        <li style="float:left;list-style: none outside none;">
+                            <a href="#" title="Twitter">
+                                <div class="twitter-team"><i class="fa fa-twitter"></i></div>
+                            </a>
+                        </li>
+                        <li style="float:left;list-style: none outside none;">
+                            <a href="#" title="Google">
+                                <div class="google-team">
+                                  <i class="fa fa-google-plus"></i>
+                                </div>
+                            </a>
+                        </li>
+                        <li style="float:left;list-style: none outside none;">
+                            <a href="#" title="Pinterest">
+                                <div class="pinterest-team">
+                                  <i class="fa fa-pinterest"></i>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="team">
+                 <div class="teamimg"></div>
+                <h4 style="text-align:center;margin-bottom: 2px;margin-top: 25px;">Bryan Jones</h4>
+                <p style="text-align:center;">UI / UX DESIGNER</p>
+                <p style="text-align:center;margin-top: -14px;margin-bottom:-8px;padding:23px;">Quisque dapibus tincidunt luctus. Nulla consequat lorem vel turpis porta pharetra. Aliquam faucibus magna erat, a gravida dui bibendum eu. Curabitur elementum nibh vel diam luctus varius. Curabitur sem lectus, viverra ultricies quam iaculis,
+                    elementum dapibus dui. Phasellus viverra fringilla nunc varius dictum.</p>
+                <div class="teamsocial">
+                    <ul>
+                        <li style="margin-left:35px;float:left;list-style: none outside none;">
+                            <a href="#" title="Facebook">
+                                <div class="facebook-team">
+                                  <i class="fa fa-facebook"></i>
+                                </div>
+                            </a>
+                        </li>
+                        <li style="float:left;list-style: none outside none;">
+                            <a href="#" title="Twitter">
+                                <div class="twitter-team"><i class="fa fa-twitter"></i></div>
+                            </a>
+                        </li>
+                        <li style="float:left;list-style: none outside none;">
+                            <a href="#" title="Google">
+                                <div class="google-team">
+                                  <i class="fa fa-google-plus"></i>
+                                </div>
+                            </a>
+                        </li>
+                        <li style="float:left;list-style: none outside none;">
+                            <a href="#" title="Pinterest">
+                                <div class="pinterest-team">
+                                  <i class="fa fa-pinterest"></i>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="team">
+               <div class="teamimg"></div>
+                <h4 style="text-align:center;margin-bottom: 2px;margin-top: 25px;">Gabrielle Vasques</h4>
+                <p style="text-align:center;">ILLUSTRATOR / CO-FOUNDER</p>
+                <p style="text-align:center;margin-top: -14px;margin-bottom:-8px;padding:23px;">Ut tincidunt sollicitudin arcu, non bibendum mi adipiscing sit amet. Nulla et facilisis orci. Fusce bibendum leo sodales, sollicitudin turpis eu, scelerisque nulla. Aliquam et urna ac felis ornare consectetur at vitae libero. Donec nec
+                    quam ut odio suscipit aliquam. Nulla sit amet tortor molestie, blandit justo non, imperdiet velit.</p>
+                <div class="teamsocial">
+                    <ul>
+                        <li style="margin-left:35px;float:left;list-style: none outside none;">
+                            <a href="#" title="Facebook">
+                                <div class="facebook-team">
+                                  <i class="fa fa-facebook"></i>
+                                </div>
+                            </a>
+                        </li>
+                        <li style="float:left;list-style: none outside none;">
+                            <a href="#" title="Twitter">
+                                <div class="twitter-team"><i class="fa fa-twitter"></i></div>
+                            </a>
+                        </li>
+                        <li style="float:left;list-style: none outside none;">
+                            <a href="#" title="Google">
+                                <div class="google-team">
+                                  <i class="fa fa-google-plus"></i>
+                                </div>
+                            </a>
+                        </li>
+                        <li style="float:left;list-style: none outside none;">
+                            <a href="#" title="Pinterest">
+                                <div class="pinterest-team">
+                                  <i class="fa fa-pinterest"></i>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+ </div>
 
 <center>
   <h2 id="name">YOUSSEF BOUBLI</h2>

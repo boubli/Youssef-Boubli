@@ -6,7 +6,7 @@ coverPhoto: https://cdn-images-1.medium.com/max/1600/1*WHf2-YddJQ1wdBGOvAo8Gw.gi
 ---
 
 # Question :
-```
+```Text
 I'd like to get the data from inspect element using Python. I'm able to download
 the source code using BeautifulSoup but now I need the text from inspect element 
 of a webpage. I'd truly appreciate if you could advise me how to do it.

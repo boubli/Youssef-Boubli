@@ -93,11 +93,11 @@
 
   <div class="column">
     <div class="card">
-      <img src="https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/46503623_887623011628525_1588566531430678528_n.jpg?_nc_cat=111&_nc_eui2=AeHr3zaxS291lxlA7DwWgiIz1iGCjLMfHw6VPAHQ3Iti0d2RppxIQKYKaT45p32DLepA0UsA02JrfpE3yhJVWRbq9EsmhUoTP2aBEP3vsdTuUQ&_nc_ht=scontent-mrs1-1.xx&oh=2b15e7ddb917367570bebdd74a8a5aaa&oe=5CB8BE55" alt="Jane" style="width:100%">
+      <img src="https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/44379854_1922412427852139_494396228063199232_n.jpg?_nc_cat=110&_nc_ht=scontent-mrs1-1.xx&oh=3d3f468c39544d83a61d7dc663edb8e1&oe=5CB987B3" alt="Jane" style="width:100%">
       <div class="container">
-        <center><h4>Taib Kouriane</h4></center>
-        <center><p class="title">BOULJNON</p></center><br />
-        <p><button class="button"><a style="color: #FFF" target="__new" href="https://www.facebook.com/taib.kour">Contact</a></button></p><br />
+        <center><h4>Yassin Raîs</h4></center>
+        <center><p class="title">full stack developer</p></center><br />
+        <p><button class="button"><a style="color: #FFF" target="__new" href="https://www.facebook.com/Yassin.yassmail.y.sous?epa=SEARCH_BOX">Contact</a></button></p><br />
       </div>
     </div>
   </div>

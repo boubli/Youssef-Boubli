@@ -29,6 +29,9 @@
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
+.card:hover{
+  box-shadow: 0 4px 8px 0 rgba(41, 128, 185,0.5);
+}
 
 .container {
   padding: 0 16px;

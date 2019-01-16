@@ -14,7 +14,16 @@ Edit: By inspect element I mean, in google chrome, right click gives us an optio
 called inspect element which has code related to each element of that particular page.
 I'd like to extract that code/ just its text strings.
 ```
-
+<script type="text/javascript">
+    google_ad_client = "ca-pub-5692999531908344";
+    google_ad_slot = "7496712842";
+    google_ad_width = 970;
+    google_ad_height = 250;
+</script>
+<!-- Git -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 
 If you want to automatically fetch a web page from Python in a way that runs Javascript, you should look into Selenium. It can automatically drive a web browser (even a headless web browser such as PhantomJS, so you don't have to have a window open).
 

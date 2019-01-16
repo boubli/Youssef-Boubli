@@ -2,7 +2,7 @@
 	*{}
 	#name:hover{color: #6cd6f9}
 	.drrT{ border: 1px solid #DDD; background: #2f3640; color: #dcdde1; padding: 5px}
-	#AsA:hover{transform: rotate(2000deg);}
+	#AsA:hover{transform: rotate(2000deg); border: 1px #00a8ff}
 </style>
 <br />
 <center><img id="AsA" style="border-radius: 50%;  border: 1px solid #ddd;  padding: 5px;" src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">

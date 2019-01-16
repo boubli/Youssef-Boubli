@@ -20,6 +20,11 @@
     opacity: 0.7;
 }
 
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
 *, *:before, *:after {
   box-sizing: inherit;
 }
@@ -89,7 +94,6 @@
 <br />
 <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-facebook"></a>
-
 <br />
 <center><h1>MY FRIENDS</h1></center>
 <br />

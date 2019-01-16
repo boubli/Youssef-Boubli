@@ -1,7 +1,7 @@
 <style type="text/css">
 	*{}
 	#name:hover{color: #6cd6f9}
-	.drrT{ border: 1px solid #DDD; background: #2f3640; color: #FFF; padding: 5px}
+	.drrT{ border: 1px solid #DDD; background: #2f3640; color: #dcdde1; padding: 5px}
 </style>
 <br />
 <center><img style="border-radius: 50%;  border: 1px solid #ddd;  padding: 5px;" src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">

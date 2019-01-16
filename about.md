@@ -3,7 +3,7 @@
 	*{}
 	#name:hover{color: #00a8ff}
 	.drrT{ border: 1px solid #DDD; background: #2f3640; color: #dcdde1; padding: 5px}
-	#AsA:hover{transform: rotate(100deg); border: 1px #00a8ff}
+	#AsA:hover{transform: rotate(1000deg); border: 1px #00a8ff}
 	html {
   box-sizing: border-box;
 }

@@ -147,7 +147,7 @@ figure .contact a {
 <br />
 
 <figure>
-  <img src="https://leadergamer.com.tr/wp-content/themes/lgm/images/default_user.jpg">
+  <img src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">
   <div class="contact">
     <a href="" class="tw"></a>
     <a href="" class="fb"></a>
@@ -156,25 +156,6 @@ figure .contact a {
   </div>
 </figure>
 
-<figure>
-  <img src="https://leadergamer.com.tr/wp-content/themes/lgm/images/default_user.jpg">
-  <div class="contact">
-    <a href="" class="tw"></a>
-    <a href="" class="fb"></a>
-    <a href="" class="gp"></a>
-    <a href="" class="ma"></a>
-  </div>
-</figure>
-
-<figure>
-  <img src="https://leadergamer.com.tr/wp-content/themes/lgm/images/default_user.jpg">
-  <div class="contact">
-    <a href="" class="tw"></a>
-    <a href="" class="fb"></a>
-    <a href="" class="gp"></a>
-    <a href="" class="ma"></a>
-  </div>
-</figure>
 
 <h2 id="name">YOUSSEF BOUBLI</h2>
 <p>programmer & designer</p>

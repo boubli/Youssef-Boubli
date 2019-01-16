@@ -62,9 +62,7 @@
 <br />
 <center><img id="AsA" style="border-radius: 50%;  border: 1px solid #ddd;  padding: 5px;" src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">
 <h2 id="name">YOUSSEF BOUBLI</h2>
-<p>programmer & designer</p>
 <br />
-
 <div class="drrT">
 	<p style="text-align: left;margin: 10px">Youssef Boubli 18 years old i was born in Geuilmim, i live in Agadir, Morocco, im programmer and designer i like Python language. <br /> 
 		A mysterious character I like to be isolated and singled out people for this work friends call me a Matrix because I am like his actions and actions but the name I like and which I call myself Raymond is a fictional character but I love this name. <br />

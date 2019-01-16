@@ -6,15 +6,14 @@ coverPhoto: https://cdn-images-1.medium.com/max/1600/1*WHf2-YddJQ1wdBGOvAo8Gw.gi
 ---
 
 # Question :
-~~~~
+```
 I'd like to get the data from inspect element using Python. I'm able to download
 the source code using BeautifulSoup but now I need the text from inspect element 
 of a webpage. I'd truly appreciate if you could advise me how to do it.
 Edit: By inspect element I mean, in google chrome, right click gives us an option
 called inspect element which has code related to each element of that particular page.
 I'd like to extract that code/ just its text strings.
-~~~~
-
+```
 
 
 If you want to automatically fetch a web page from Python in a way that runs Javascript, you should look into Selenium. It can automatically drive a web browser (even a headless web browser such as PhantomJS, so you don't have to have a window open).

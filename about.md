@@ -74,6 +74,8 @@
 </div>
 </center>
 <br />
+<center><h1>MY FRIENDS</h1></center>
+<br />
 <div class="row">
 
   <div class="column">

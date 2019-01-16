@@ -50,7 +50,7 @@
   display: inline-block;
   padding: 8px;
   color: white;
-  background-color: #000;
+  background-color: #00a8ff;
   text-align: center;
   cursor: pointer;
   width: 100%;

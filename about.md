@@ -106,7 +106,7 @@
     <div class="card">
       <img src="https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/15073285_1633147050319373_8392762929674651387_n.jpg?_nc_cat=107&_nc_ht=scontent-mrs1-1.xx&oh=d8d5ebbffd30d5d5fc1e52ca6ec45752&oe=5CD619EF" alt="Jane" style="width:100%">
       <div class="container">
-        <center><h4>Ayoub Rauid</h4></center>
+        <center><h4>Ayoub Rouida</h4></center>
         <center><p class="title">Expert Specialist</p></center><br />
         <p><button class="button"><a style="color: #FFF" target="__new" href="https://www.facebook.com/ayoub.kick.167">Contact</a></button></p><br />
       </div>

@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
 	*{}
 	#name:hover{color: #00a8ff}
@@ -6,23 +5,6 @@
 	#AsA:hover{transform: rotate(1000deg); border: 1px #00a8ff}
 	html {
   box-sizing: border-box;
-}
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
-
-.fa-facebook {
-  background: #3B5998;
-  color: white;
 }
 
 *, *:before, *:after {
@@ -91,8 +73,8 @@
 	</p>
 </div>
 </center>
+
 <br />
-<a href="#" class="fa fa-facebook"></a>
 <br />
 <center><h1>MY FRIENDS</h1></center>
 <br />

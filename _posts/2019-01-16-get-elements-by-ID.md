@@ -96,12 +96,12 @@ document.querySelectorAll(css_selector)
 
 Return a non-live HTMLCollection, of elements that match the CSS selector css_selector. The css_selector is a string of CSS syntax, and can be several selectors separated by comma.
 
-```JavaScipt
+```JavaScript
 	const xx = document .querySelectorAll("span.a, span.c");
 
 	for (const i = 0; i < xx.length; i++) {
 	    xx[i].style.color="red";
 	}
-```
+``
 
 

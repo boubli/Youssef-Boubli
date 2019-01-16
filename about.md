@@ -1,5 +1,90 @@
 <style type="text/css">
 	*{}
+  body {
+  text-align: center;
+  background: #fff;
+}
+figure {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  width: 136px; height: 148px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+/** Hexagon Mask **/
+figure:before {
+  z-index: 3;
+  position: absolute;
+  display: block;
+  content: '';
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: url(https://leadergamer.com.tr/wp-content/themes/lgm/images/team-mask-1.png) no-repeat;
+  pointer-events: none;
+}
+figure img {
+  display: block;
+  width: auto; height: 100%;
+}
+
+/** Contact Links **/
+figure .contact {
+  z-index: 2;
+  position: absolute;
+  display: block;
+  top: 0; left: 0; right: 0; bottom: 0;
+}
+.contact a {
+  background-image: url(https://leadergamer.com.tr/wp-content/themes/lgm/images/level-1-c.png);
+}
+figure .contact a {
+  position: absolute;
+  display: block;
+  width: 50%; height: 50%;
+  background-repeat: no-repeat;
+  transition: all .25s ease-in-out;
+}
+  figure .contact .tw {
+    top: 0; left: 0;
+    background-color: rgba(0, 172, 238, .7);
+    background-position: 30px 32px;
+    transform: translate(-100%, -100%);
+  }
+    figure .contact .tw:hover {
+      background-color: rgba(0, 172, 238, 1);
+    }
+  figure .contact .fb {
+    top: 0; right: 0;
+    background-color: rgba(59, 89, 152, .7);
+    background-position: -42px 32px;
+    transform: translate(100%, -100%);
+  }
+    figure .contact .fb:hover {
+      background-color: rgba(59, 89, 152, 1);
+    }
+  figure .contact .gp {
+    bottom: 0; left: 0;
+    background-color: rgba(221, 75, 57, .7);
+    background-position: 30px -40px;
+    transform: translate(-100%, 100%);
+  }
+    figure .contact .gp:hover {
+      background-color: rgba(221, 75, 57, 1);
+    }
+  figure .contact .ma {
+    bottom: 0; right: 0;
+    background-color: rgba(153, 153, 153, .7);
+    background-position: -42px -40px;
+    transform: translate(100%, 100%);
+  }
+    figure .contact .ma:hover {
+      background-color: rgba(153, 153, 153, 1);
+    }
+    figure:hover .contact a {
+      transform: translate(0, 0);
+    }
 	#name:hover{color: #00a8ff}
 	.drrT{ border: 1px solid #DDD; background: #2f3640; color: #dcdde1; padding: 5px}
 	#AsA:hover{transform: rotate(1000deg); border: 1px #00a8ff}
@@ -60,7 +145,37 @@
 }
 </style>
 <br />
-<center><img id="AsA" style="border-radius: 50%;  border: 1px solid #ddd;  padding: 5px;" src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">
+
+<figure>
+  <img src="https://leadergamer.com.tr/wp-content/themes/lgm/images/default_user.jpg">
+  <div class="contact">
+    <a href="" class="tw"></a>
+    <a href="" class="fb"></a>
+    <a href="" class="gp"></a>
+    <a href="" class="ma"></a>
+  </div>
+</figure>
+
+<figure>
+  <img src="https://leadergamer.com.tr/wp-content/themes/lgm/images/default_user.jpg">
+  <div class="contact">
+    <a href="" class="tw"></a>
+    <a href="" class="fb"></a>
+    <a href="" class="gp"></a>
+    <a href="" class="ma"></a>
+  </div>
+</figure>
+
+<figure>
+  <img src="https://leadergamer.com.tr/wp-content/themes/lgm/images/default_user.jpg">
+  <div class="contact">
+    <a href="" class="tw"></a>
+    <a href="" class="fb"></a>
+    <a href="" class="gp"></a>
+    <a href="" class="ma"></a>
+  </div>
+</figure>
+
 <h2 id="name">YOUSSEF BOUBLI</h2>
 <p>programmer & designer</p>
 <br />

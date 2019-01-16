@@ -12,3 +12,5 @@ For me, because I have an expert in this area, the site works every year but the
 ![](https://www.dreamjob.ma/wp-content/uploads/2018/01/Minist%C3%A8re-de-lEducation-Nationale-Emploi-et-Recrutement-Dreamjob.ma_-820x351.png)
 
 The site was programmed in weak programming languages because the servers are not good and asp language you need powerful servers for better and faster work but unfortunately as mentioned by Morocco needs to strengthen the information system
+
+![](https://socialmediaweek.org/wp-content/blogs.dir/1/files/2015/02/Facebook-Servers-3rd-Image.jpg)

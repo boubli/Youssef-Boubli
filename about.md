@@ -1,128 +1,5 @@
 <style type="text/css">
-	@import url(https://fonts.googleapis.com/css?family=Raleway:200);
-
-body {
-    color: #858585;
-    font-family: 'Raleway',sans-serif;
-    font-size: 16px;
-    font-weight: 200;
-}
-
-h4,
-.h4{
-    font-size: 18px;
-    font-weight: bold;
-}
-
-.container {
-    width: 1170px;
-}
-
-.container {
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
-}
-
-.team
-{
-    width: 370px;
-    min-height: 100%;
-    border: 1px solid rgba(133,133,133,.15);
-    background-color: #fff;
-    -moz-box-shadow: 0 0 8px rgba(0,0,0,.09);
-    -webkit-box-shadow: 0 0 8px rgba(0,0,0,.09);
-    box-shadow: 0 0 8px rgba(0,0,0,.09);
-    float: left;
-    margin-left: 16px;
-}
-.teamimg
-{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    margin-top: -80px;
-    width:170px;
-    height:170px;
-    background: #1bbc9d;
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.09);
-}
-
-.teamsocial
-{
-    height: 48px;
-    background-color: #f7f5f5;
-    position: relative;
-    bottom: -14px;
-    left: 0;
-}
-
-.facebook-team
-{
-    float: left;
-    width: 48px;
-    height: 48px;
-    color: #D1CFCF;
-    display:block;
-    font-size:30px;
-    padding: 7px;
-}
-
-.twitter-team
-{
-    float: left;
-    width: 48px;
-    height: 48px;
-    color: #D1CFCF;
-    display:block;
-    font-size:30px;
-    padding: 7px;
-}
-
-.google-team
-{
-    float: left;
-    width: 48px;
-    height: 48px;
-    color: #D1CFCF;
-    display:block;
-    font-size:30px;
-    padding: 7px;
-}
-
-.pinterest-team
-{
-    float: left;
-    width: 48px;
-    height: 48px;
-    color: #D1CFCF;
-    display:block;
-    font-size:30px;
-    padding: 7px;
-}
-
-.facebook-team:hover
-{
-    color: #3B5998;
-}
-
-.twitter-team:hover
-{
-    color: #29B3E1;
-}
-
-.google-team:hover
-{
-    color: #DE5845;
-}
-
-.pinterest-team:hover
-{
-    color: #C51C23;
-}
-
+	*{}
 	#name:hover{color: #00a8ff}
 	.drrT{ border: 1px solid #DDD; background: #2f3640; color: #dcdde1; padding: 5px}
 	#AsA:hover{transform: rotate(1000deg); border: 1px #00a8ff}
@@ -183,62 +60,18 @@ h4,
 }
 </style>
 <br />
+<center><img id="AsA" style="border-radius: 50%;  border: 1px solid #ddd;  padding: 5px;" src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">
+<h2 id="name">YOUSSEF BOUBLI</h2>
+<p>programmer & designer</p>
+<br />
 
-<div class="container" style="padding-top: 130px;margin-bottom:48px;">
-        <div class="row">
-            <div class="team">
-                <div class="teamimg"></div>
-                <h4 style="text-align:center;margin-bottom: 2px;margin-top: 25px;">Alex Morrison</h4>
-                <p style="text-align:center;">GRAPHIC DESIGNER / CO-FOUNDER</p>
-                <p style="text-align:center;margin-top: -14px;margin-bottom:-8px;padding:23px;">Maecenas non elit egestas, interdum elit eget, ornare massa. Vestibulum imperdiet urna at rutrum interdum. Nullam luctus lorem non magna commodo mattis. Curabitur pharetra pulvinar quam et viverra. Duis interdum et nunc sed laoreet. Cras
-                    ultrices dolor id ipsum malesuada congue.Quisque luctus.</p>
-                <div class="teamsocial">
-                    <ul>
-                        <li style="margin-left:35px;float:left;list-style: none outside none;">
-                            <a href="#" title="Facebook">
-                                <div class="facebook-team">
-                                  <i class="fa fa-facebook"></i>
-                                </div>
-                            </a>
-                        </li>
-                        <li style="float:left;list-style: none outside none;">
-                            <a href="#" title="Twitter">
-                                <div class="twitter-team"><i class="fa fa-twitter"></i></div>
-                            </a>
-                        </li>
-                        <li style="float:left;list-style: none outside none;">
-                            <a href="#" title="Google">
-                                <div class="google-team">
-                                  <i class="fa fa-google-plus"></i>
-                                </div>
-                            </a>
-                        </li>
-                        <li style="float:left;list-style: none outside none;">
-                            <a href="#" title="Pinterest">
-                                <div class="pinterest-team">
-                                  <i class="fa fa-pinterest"></i>
-                                </div>
-                            </a>
-                        </li>
-                   </div>
-              </div>
-        </div>
+<div class="drrT">
+	<p style="text-align: left;margin: 10px">Youssef Boubli 18 years old i was born in Geuilmim, i live in Agadir, Morocco, im programmer and designer i like Python language. <br /> 
+		A mysterious character I like to be isolated and singled out people for this work friends call me a Matrix because I am like his actions and actions but the name I like and which I call myself Raymond is a fictional character but I love this name. <br />
+		To learn programming through watching YouTube videos quickly I absorbed the lessons in a week I started to deepen the programming I did not study programming in institutes or colleges, but I think to study in the future in order to obtain a certificate. <br />
+	</p>
 </div>
-            
-
-<center>
-  <h2 id="name">YOUSSEF BOUBLI</h2>
-  <p>programmer & designer</p>
-  <br />
-
-  <div class="drrT">
-  	<p style="text-align: left;margin: 10px">Youssef Boubli 18 years old i was born in Geuilmim, i live in Agadir, Morocco, im programmer and designer i like Python language. <br /> 
-  		A mysterious character I like to be isolated and singled out people for this work friends call me a Matrix because I am like his actions and actions but the name I like and which I call myself Raymond is a fictional character but I love this name. <br />
-  		To learn programming through watching YouTube videos quickly I absorbed the lessons in a week I started to deepen the programming I did not study programming in institutes or colleges, but I think to study in the future in order to obtain a certificate. <br />
-  	</p>
-  </div>
 </center>
-
 
 <br />
 <br />

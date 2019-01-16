@@ -15,7 +15,6 @@
   float: left;
   width: 33.3%;
   height: 363px ;
-  margin-bottom: 16px;
   padding: 0 8px;
 }
 
@@ -119,5 +118,7 @@
       </div>
     </div>
   </div>
-
+  
+<br />
+<br />
 </div>

@@ -84,7 +84,7 @@
       <div class="container">
         <h4>Taib Kouriane</h4>
         <p class="title">BOULJNON</p><br />
-        <p><button class="button"><a href="https://www.facebook.com/taib.kour">Contact</a></button></p><br />
+        <p><button class="button"><a style="color: #FFF" href="https://www.facebook.com/taib.kour">Contact</a></button></p><br />
       </div>
     </div>
   </div>

@@ -1,5 +1,5 @@
 <style type="text/css">
-	*{font-family:"Roboto Slab",serif}
+	*{}
 	#name:hover{color: #6cd6f9}
 	.drrT{width:300px; height:200px; border: 1px solid #DDD; background: green}
 </style>

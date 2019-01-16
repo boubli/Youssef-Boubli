@@ -102,6 +102,6 @@ Return a non-live HTMLCollection, of elements that match the CSS selector css_se
 	for (const i = 0; i < xx.length; i++) {
 	    xx[i].style.color="red";
 	}
-``
+```
 
 

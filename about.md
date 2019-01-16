@@ -15,5 +15,5 @@
 		To learn programming through watching YouTube videos quickly I absorbed the lessons in a week I started to deepen the programming I did not study programming in institutes or colleges, but I think to study in the future in order to obtain a certificate. <br />
 	</p>
 </div>
-
 </center>
+<br />

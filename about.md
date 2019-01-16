@@ -74,6 +74,7 @@
 </center>
 <br />
 <div class="row">
+
   <div class="column">
     <div class="card">
       <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
@@ -85,7 +86,5 @@
       </div>
     </div>
   </div>
-
- 
-  </div>
+  
 </div>

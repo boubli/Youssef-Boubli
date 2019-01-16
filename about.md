@@ -83,7 +83,7 @@
       <img src="https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/46503623_887623011628525_1588566531430678528_n.jpg?_nc_cat=111&_nc_eui2=AeHr3zaxS291lxlA7DwWgiIz1iGCjLMfHw6VPAHQ3Iti0d2RppxIQKYKaT45p32DLepA0UsA02JrfpE3yhJVWRbq9EsmhUoTP2aBEP3vsdTuUQ&_nc_ht=scontent-mrs1-1.xx&oh=2b15e7ddb917367570bebdd74a8a5aaa&oe=5CB8BE55" alt="Jane" style="width:100%">
       <div class="container">
         <h4>Taib Kouriane</h4>
-        <p class="title">BOULJNON</p><br />
+        <center><p class="title">BOULJNON</p></center><br />
         <p><button class="button"><a style="color: #FFF" href="https://www.facebook.com/taib.kour">Contact</a></button></p><br />
       </div>
     </div>

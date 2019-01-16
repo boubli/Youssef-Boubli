@@ -86,7 +86,6 @@
       <div class="container">
         <center><h4>Taib Kouriane</h4></center>
         <center><p class="title">BOULJNON</p></center><br />
-        <p><button class="button"><a style="color: #FFF" target="__new" href="https://www.facebook.com/taib.kour">Contact</a></button></p><br />
       </div>
     </div>
   </div>
@@ -97,7 +96,6 @@
       <div class="container">
         <center><h4>Yassin Raîs</h4></center>
         <center><p class="title">full stack developer</p></center><br />
-        <p><button class="button"><a style="color: #FFF" target="__new" href="https://www.facebook.com/Yassin.yassmail.y.sous?epa=SEARCH_BOX">Contact</a></button></p><br />
       </div>
     </div>
   </div>
@@ -108,7 +106,6 @@
       <div class="container">
         <center><h4>Ayoub Rouida</h4></center>
         <center><p class="title">Expert Specialist</p></center><br />
-        <p><button class="button"><a style="color: #FFF" target="__new" href="https://www.facebook.com/ayoub.kick.167">Contact</a></button></p><br />
       </div>
     </div>
   </div>
@@ -119,7 +116,6 @@
       <div class="container">
         <center><h4>Adam Dihaj</h4></center>
         <center><p class="title">Circle of Science & Technologies</p></center><br />
-        <p><button class="button"><a style="color: #FFF" target="__new" href="https://www.facebook.com/profile.php?id=100002061827724">Contact</a></button></p><br />
       </div>
     </div>
   </div>

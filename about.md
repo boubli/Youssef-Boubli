@@ -184,12 +184,14 @@ h4,
 </style>
 <br />
 
-<div class="team">
-                 <div class="teamimg"></div>
-                <h4 style="text-align:center;margin-bottom: 2px;margin-top: 25px;">Bryan Jones</h4>
-                <p style="text-align:center;">UI / UX DESIGNER</p>
-                <p style="text-align:center;margin-top: -14px;margin-bottom:-8px;padding:23px;">Quisque dapibus tincidunt luctus. Nulla consequat lorem vel turpis porta pharetra. Aliquam faucibus magna erat, a gravida dui bibendum eu. Curabitur elementum nibh vel diam luctus varius. Curabitur sem lectus, viverra ultricies quam iaculis,
-                    elementum dapibus dui. Phasellus viverra fringilla nunc varius dictum.</p>
+<div class="container" style="padding-top: 130px;margin-bottom:48px;">
+        <div class="row">
+            <div class="team">
+                <div class="teamimg"></div>
+                <h4 style="text-align:center;margin-bottom: 2px;margin-top: 25px;">Alex Morrison</h4>
+                <p style="text-align:center;">GRAPHIC DESIGNER / CO-FOUNDER</p>
+                <p style="text-align:center;margin-top: -14px;margin-bottom:-8px;padding:23px;">Maecenas non elit egestas, interdum elit eget, ornare massa. Vestibulum imperdiet urna at rutrum interdum. Nullam luctus lorem non magna commodo mattis. Curabitur pharetra pulvinar quam et viverra. Duis interdum et nunc sed laoreet. Cras
+                    ultrices dolor id ipsum malesuada congue.Quisque luctus.</p>
                 <div class="teamsocial">
                     <ul>
                         <li style="margin-left:35px;float:left;list-style: none outside none;">
@@ -218,8 +220,11 @@ h4,
                                 </div>
                             </a>
                         </li>
-                    </ul>
-                </div>
+                   </div>
+              </div>
+        </div>
+</div>
+            
 
 <center>
   <h2 id="name">YOUSSEF BOUBLI</h2>

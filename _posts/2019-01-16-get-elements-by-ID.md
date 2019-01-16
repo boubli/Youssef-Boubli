@@ -2,7 +2,7 @@
 layout: article
 title: "Get Elements by ID, Tag, Name, Class, CSS Selector"
 date: 2019-01-16 10:45:00+0200
-coverPhoto: https://i.ytimg.com/vi/pfiAD405Fqk/maxresdefault.jpg
+coverPhoto: https://uploads.toptal.io/blog/image/125783/toptal-blog-image-1522333595770-14ba14a2f6099482fa9189f8764dd5ad.png
 ---
 
 Get Element by Matching the Value of the 「id」 Attribute

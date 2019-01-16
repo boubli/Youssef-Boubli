@@ -1,7 +1,7 @@
 <style type="text/css">
 	*{}
 	#name:hover{color: #00a8ff}
-	.drrT{ border: 1px solid #DDD; background: #2f3640; color: #dcdde1; padding: 5px}
+	.drrT{ border: 1px solid #DDD; color: black; padding: 5px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);}
 	#AsA:hover{transform: rotate(1000deg); border: 1px #00a8ff}
 	html {
   box-sizing: border-box;

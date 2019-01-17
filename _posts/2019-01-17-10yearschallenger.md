@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Heard of the 10 Year Challenge? Why some are hesitant to post their ′2009 vs. 2019′ photos on social media"
-date: 2016-04-19 19:45:00+0200
+date: 2019-01-19 19:45:00+0200
 coverPhoto: https://i.nj.com/resizer/UgL_K0nwW0SxgwR0uROAosy1_ck=/600x0/arc-anglerfish-arc2-prod-advancelocal/public/QFONDBHK4FGGLJRMSFE6MTAXBY.jpg
 ---
 

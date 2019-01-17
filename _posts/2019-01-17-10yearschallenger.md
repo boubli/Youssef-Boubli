@@ -2,7 +2,7 @@
 layout: article
 title:  "Heard of the 10 Year Challenge? Why some are hesitant to post their ′2009 vs. 2019′ photos on social media"
 date: 2019-01-17 19:45:00+0200
-coverPhoto: https://i.nj.com/resizer/UgL_K0nwW0SxgwR0uROAosy1_ck=/600x0/arc-anglerfish-arc2-prod-advancelocal/public/QFONDBHK4FGGLJRMSFE6MTAXBY.jpg
+coverPhoto:https://www.lebigdata.fr/wp-content/uploads/2019/01/facebook-10-year-challenge-660x330.jpg
 ---
 
 f you’ve been thinking about trying your hand at social media’s 10 Year Challenge and are concerned about your privacy, you may want to take a moment to see why some are saying the trend may not be so harmless.

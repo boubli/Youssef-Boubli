@@ -15,7 +15,7 @@ In lieu of that, 2008 and 2018, or some other decade or substantial length of ti
 
 In all cases, the idea is to show how you’ve changed (or stayed the same, like Reese Witherspoon, pictured below) over that period.
 
-![](https://twitter.com/RWitherspoon/status/1085024279559692288/photo/1)
+![](https://pbs.twimg.com/media/Dw7H1BkUwAAg0fS.jpg)
 
 
 Celebrities ranging from Janet Jackson to Snooki, Kevin Smith, Fat Joe and Tyra Banks have taken up the challenge. Some, like Smith and Fat Joe, showed off a considerable slimdown, while others just had fun looking back 10 years. (Or 50, like Samuel L. Jackson.)

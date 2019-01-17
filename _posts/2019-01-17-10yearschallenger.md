@@ -20,6 +20,9 @@ In all cases, the idea is to show how you’ve changed (or stayed the same, like
 
 Celebrities ranging from Janet Jackson to Snooki, Kevin Smith, Fat Joe and Tyra Banks have taken up the challenge. Some, like Smith and Fat Joe, showed off a considerable slimdown, while others just had fun looking back 10 years. (Or 50, like Samuel L. Jackson.)
 
+![](https://pbs.twimg.com/media/DxICnSRWwAEpt1x.jpg)
+
+
 What could go wrong?
 
 “Y’all posting these #2009v2019 comparison photos and that’s how you get your identity stolen,” tweeted Desus Nice of the upcoming Showtime series “Desus vs. Mero," on Sunday.
@@ -31,6 +34,9 @@ There may be something to that, says Kate O’Neill, writing for Wired.
 It’s not that Facebook or Twitter or Instagram didn’t already have photos of you, she says. It’s just that they just weren’t clearly organized in a specific, labeled progression, she explains. The date you posted a profile picture doesn’t necessarily mean that’s when it was taken. So with this trend, we are providing more detailed data by denoting when each photo was taken.
 
 “In other words, thanks to this meme, there’s now a very large data set of carefully curated photos of people from roughly 10 years ago and now,” O’Neill says.
+
+![](https://pbs.twimg.com/media/DxIsAjdX4AAfq3j.jpg)
+
 
 
 If you’re OK with that, by all means, proceed with showing off your glo-up. But know this:

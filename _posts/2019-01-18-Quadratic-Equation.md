@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  Quadratic equation python
-date: 2019-01-15 19:45:00+0200
+date: 2019-01-18 19:45:00+0200
 coverPhoto: https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/python.png?1511822742
 ---
 

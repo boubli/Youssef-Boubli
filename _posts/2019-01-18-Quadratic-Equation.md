@@ -8,7 +8,7 @@ coverPhoto: https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/
 The standard form of a quadratic equation is:
 
 
-```python
+```text
 	ax2 + bx + c = 0, where
 	a, b and c are real numbers and
 	a ≠ 0
@@ -44,7 +44,7 @@ The standard form of a quadratic equation is:
 
 `output is :`
 
-```cmd
+```text
 	The solution are (-2-1j) and (-2+1j)
 	[Finished in 0.1s]
 ```

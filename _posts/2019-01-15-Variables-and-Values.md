@@ -4,6 +4,7 @@ title: Variables and value
 date: 2019-01-15 19:45:00+0200
 coverPhoto: https://ilearnthis.com/wp-content/uploads/2018/09/Variables-python.png
 ---
+
 # Lesson 2 Variables and Values Variables and Values
 Before you begin the second lesson you need to [read Python Lesson Index](http://www.google.com)
 

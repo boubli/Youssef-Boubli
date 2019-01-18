@@ -40,7 +40,26 @@ The standard form of a quadratic equation is:
 	print('The solution are {0} and {1}'.format(sol1,sol2))
 ```
 
-<button><a href="#">download</a></button>
+<style type="text/css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	.btn {
+	  background-color: DodgerBlue;
+	  border: none;
+	  color: white;
+	  padding: 12px 30px;
+	  cursor: pointer;
+	  font-size: 20px;
+	}
+
+	/* Darker background on mouse-over */
+	.btn:hover {
+	  background-color: RoyalBlue;
+	}
+</style>
+
+Download source code : 
+<button class="btn"><i class="fa fa-download"></i><a href="#">Download</a></button>
 
 `output is :`
 

@@ -2,7 +2,7 @@
 layout: article
 title:  Scan port using Python
 date: 2019-01-19 19:45:00+0200
-coverPhoto: https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/python.png?1511822742
+coverPhoto: https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/header.width-808.gif
 ---
 # Overview
 This post will show how you can make a small and easy-to-use port scanner program

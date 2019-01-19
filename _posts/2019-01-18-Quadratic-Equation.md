@@ -2,7 +2,7 @@
 layout: article
 title:  Quadratic equation python
 date: 2019-01-18 19:45:00+0200
-coverPhoto: https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/header.width-808.gif
+coverPhoto: http://programaenlinea.net/wp-content/uploads/2018/03/python-Webinar.jpg
 ---
 
 The standard form of a quadratic equation is:

@@ -22,15 +22,15 @@ But despite these circumstances, Morocco can progress on many Arab countries suc
 
 As we can see in the picture above, the technology index is high compared to the Arab countries, but unfortunately we need support for this category. Moral support through the provision of services and schools to learn and create awareness campaigns for the advancement of the digital world in Morocco.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5692999531908344"
-     data-ad-slot="2162046565"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+<script type="text/javascript">
+    google_ad_client = "ca-pub-5692999531908344";
+    google_ad_slot = "7496712842";
+    google_ad_width = 970;
+    google_ad_height = 250;
+</script>
+<!-- Git -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 
 # Some images of the study of technology in Morocco

@@ -249,7 +249,7 @@ height:auto;
 
 <div class='abt-author_info'>
 <div class='abt-author_photo'>
-<img alt='author' height='150' src='https://avatars0.githubusercontent.com/u/26576840?s=460&v=4' width='150'/>
+<img alt='author' height='150' src='https://avatars0.githubusercontent.com/u/26576840?s=460&v=4' width='90'/>
 </div>
 <h2 style='color:#444;font-family:verdana;text-shadow: 3px 3px 3px 3px #ABABAB;'>This Post Was Written By :</h2>
 <p>Youssef Boubli.</p>

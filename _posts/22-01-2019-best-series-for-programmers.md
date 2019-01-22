@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Best series for programmers 
-date: 2019-01-20 02:45:00+0200
+date: 2019-01-22 02:45:00+0200
 coverPhoto: https://www.buzzwebzine.fr/wp-content/uploads/2018/05/meilleures-series-2018.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: article
 title: "How I Turned Down $300,000 from Microsoft to go Full-Time on GitHub"
 date: 2008-10-18 19:45:00+0200
-coverPhoto:https://d2bl6k2x2kyfy6.cloudfront.net/wp-content/uploads/2016/05/26014843/startup.jpg
+coverPhoto: https://d2bl6k2x2kyfy6.cloudfront.net/wp-content/uploads/2016/05/26014843/startup.jpg
 ---
 
 

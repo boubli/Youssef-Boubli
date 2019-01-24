@@ -5,6 +5,7 @@ date: 2008-11-03 19:45:00+0200
 coverPhoto: https://pbs.twimg.com/media/Dfz6vy7WkAAs2hf.jpg
 ---
 
+![](https://pbs.twimg.com/media/Dfz6vy7WkAAs2hf.jpg)
 
 Over the last few months I've seen a number of people looking for cofounders on
 Hacker News or via their own personal blogs. I think this is, at best, a highly

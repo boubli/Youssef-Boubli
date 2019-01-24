@@ -4,6 +4,9 @@ title: "Optimize for Happiness"
 date: 2010-10-18 19:45:00+0200
 coverPhoto: https://image.slidesharecdn.com/amazon-06-programming-happiness-ruby-on-rails217/95/amazon-06-programming-happiness-ruby-on-rails-6-638.jpg?cb=1422506745
 ---
+
+![](https://image.slidesharecdn.com/amazon-06-programming-happiness-ruby-on-rails217/95/amazon-06-programming-happiness-ruby-on-rails-6-638.jpg?cb=1422506745)
+
 Two days ago I had the pleasure of speaking at Startup School, a yearly conference on entrepreneurism put on by the great folks at Y Combinator. Never before have I see such a high concentration of smart ambitious people in one place.
 
 You can watch the recording of my thirty minute slot on Youtube:

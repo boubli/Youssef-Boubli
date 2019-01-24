@@ -5,6 +5,8 @@ date: 2011-03-29 19:45:00+0200
 coverPhoto: https://image.slidesharecdn.com/culture-preso-180618142825/95/culture-lessons-from-github-with-scott-chacon-1-638.jpg?cb=1529332428
 ---
 
+![](https://image.slidesharecdn.com/culture-preso-180618142825/95/culture-lessons-from-github-with-scott-chacon-1-638.jpg?cb=1529332428)
+
 **NOTE: This post was written in late December of 2008, more than two years
 ago. It has stayed in my drafts folder since then, waiting for the last 2% to be
 written. Why I never published it is beyond my reckoning, but it serves as a

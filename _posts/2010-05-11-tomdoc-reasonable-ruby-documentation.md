@@ -5,6 +5,8 @@ date: 2010-05-11 19:45:00+0200
 coverPhoto: https://d33wubrfki0l68.cloudfront.net/a31b2120480bc9f89c3e2a22306b5a3961375ec2/af4ef/images/zen-screenshot.png
 ---
 
+![](https://d33wubrfki0l68.cloudfront.net/a31b2120480bc9f89c3e2a22306b5a3961375ec2/af4ef/images/zen-screenshot.png)
+
 [RDoc](http://rdoc.rubyforge.org) is an abomination. It's ugly to read in plain
 text, requires the use of the inane :nodoc: tag to prevent private method
 documentation from showing up in final rendering, and does nothing to encourage

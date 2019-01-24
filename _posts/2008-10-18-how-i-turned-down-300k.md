@@ -5,6 +5,7 @@ date: 2008-10-18 19:45:00+0200
 coverPhoto: https://d2bl6k2x2kyfy6.cloudfront.net/wp-content/uploads/2016/05/26014843/startup.jpg
 ---
 
+![]( https://d2bl6k2x2kyfy6.cloudfront.net/wp-content/uploads/2016/05/26014843/startup.jpg)
 
 2008 is a leap year. That means that three hundred and sixty six days ago,
 almost to the minute, I was sitting alone in a booth at Zeke's Sports Bar and

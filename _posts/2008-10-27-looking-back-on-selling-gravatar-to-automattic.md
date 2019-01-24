@@ -4,6 +4,7 @@ title: "Looking back on Selling Gravatar to Automattic"
 date: 2008-10-27 19:45:00+0200
 coverPhoto: http://woocommerce.com/wp-content/uploads/2015/05/blog_woomattic_v2@2x.jpg
 ---
+![](http://woocommerce.com/wp-content/uploads/2015/05/blog_woomattic_v2@2x.jpg)
 
 For an entrepreneur, the line between horrible mistake and runaway success can
 be so thin that even Kate Moss would be envious. I lived with

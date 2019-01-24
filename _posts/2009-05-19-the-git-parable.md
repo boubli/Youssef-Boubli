@@ -2,8 +2,9 @@
 layout: article
 title: "The Git Parable"
 date: 2009-05-19 19:45:00+0200
-coverPhoto:https://practical-neuroimaging.github.io/_images/gp-bugs.png
+coverPhoto: https://practical-neuroimaging.github.io/_images/gp-bugs.png
 ---
+![](https://practical-neuroimaging.github.io/_images/gp-bugs.png)
 
 Git is a simple, but extremely powerful system. Most people try to teach Git by
 demonstrating a few dozen commands and then yelling "tadaaaaa." I believe this

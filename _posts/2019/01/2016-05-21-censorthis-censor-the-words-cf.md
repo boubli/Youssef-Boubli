@@ -1,10 +1,10 @@
 ---
 layout: article
 title:  "CensorThis - Censor the words [CF]"
-date:    2016-05-22 04:17:54 +0700
+date: 2016-05-22 04:17:54 +0700
 coverPhoto: https://cdn-stream.httpid.com/c202/wp-content/uploads/2017/09/censored-e1506077109610.jpg
 ---
-$
+
 Author Question: **Argaen**
 
 Code Fights Weekly has gained popularity in the past months and is receiving lots of fan letters. Unfortunately, some of the readers use offensive words and the editor wants to keep the magazine family friendly.

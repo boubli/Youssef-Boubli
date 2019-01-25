@@ -2,7 +2,7 @@
 layout: article
 title: "How Does A Free App Make Money?"
 date: 2019-01-25 11:51:00+0200
-coverPhoto:http://www.chupamobile.com/blog/wp-content/uploads/2016/06/how-do-free-apps-make-money.png
+coverPhoto: http://www.chupamobile.com/blog/wp-content/uploads/2016/06/how-do-free-apps-make-money.png
 ---
 
 ![](http://www.chupamobile.com/blog/wp-content/uploads/2016/06/how-do-free-apps-make-money.png)

@@ -24,8 +24,8 @@ CONCLUSION
 
 Thankfully I even have improved over the years and have a more robust social life. but I found i'm still happier being reception with my married woman and my computer. i do not have any regrets that I did not pay longer within the outside world. however i'll still wish to cue others that programming could be a terribly habit-forming hobby and may result in you become a tragic scum bag like Pine Tree State.
 
-Dean Sharples could be a author and applied scientist with a few years expertise. He has written articles on subjects like Home Business, Retro, faith and Programming. he's a Muslim and comes from Manchester, UK. you'll be able to determine additional regarding Dean at: ![](http://www.deansharples.com)
+Dean Sharples could be a author and applied scientist with a few years expertise. He has written articles on subjects like Home Business, Retro, faith and Programming. he's a Muslim and comes from Manchester, UK. you'll be able to determine additional regarding Dean at: ![http://www.deansharples.com](http://www.deansharples.com)
 
 
 
-Article Source: ![](http://EzineArticles.com/10057163)
+Article Source: ![http://EzineArticles.com/10057163](http://EzineArticles.com/10057163)

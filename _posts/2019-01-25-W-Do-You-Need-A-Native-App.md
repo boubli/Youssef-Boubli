@@ -27,7 +27,7 @@ The biggest reason for having a native application is the user experience. Since
 
 You have many reasons to go with these applications. Companies that have apps designed for a specific operating system have earned uncountable benefits. These apps not only boost the traffic, but they also make your approach trust-worthy and reliable.
 
-Development:
+# Development:
 
 Since native applications are platform-centric, you will get many versions that offer a smooth function. Your user will be happy to download your app when you have many things to offer.
 

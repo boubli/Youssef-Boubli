@@ -15,6 +15,17 @@ Developers have three ways to design a mobile application. Native apps are those
 
 So, these mobile apps have come up with both advantages and disadvantages. Choosing the right one is still necessary for any business. Even though hybrid and web applications outperform native apps in respect of benefits, companies stick to the native designing option for offering a great user experience.
 
+<script type="text/javascript">
+    google_ad_client = "ca-pub-5692999531908344";
+    google_ad_slot = "6969252742";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- GET -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
 # Why do you need native applications?
 
 Consumers want a great user interface from your application. It does not matter to them which approaches you have adopted. They need a smooth navigation and all the features that help them easily find out their product. Native applications fulfill all requirements rightly. These apps are fast and reliable. When you want to offer a seamless app experience to your users, you need these applications.

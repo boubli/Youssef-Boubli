@@ -2,7 +2,7 @@
 layout: article
 title: "What We Learned From The Facebook Breach"
 date: 2019-01-27 17:00:00+0200
-coverPhoto: https://cdn.vox-cdn.com/thumbor/CdHv7c_X0_wQ1Yt4MI-rgZX27V4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/62607946/jbareham_180405_1777_facebook_0003.0.jpg
+coverPhoto: https://sophosnews.files.wordpress.com/2018/10/fb-1200.png?w=780&h=408&crop=1
 ---
 
 ![](https://cdn.vox-cdn.com/thumbor/CdHv7c_X0_wQ1Yt4MI-rgZX27V4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/62607946/jbareham_180405_1777_facebook_0003.0.jpg)

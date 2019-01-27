@@ -14,7 +14,7 @@ A network are often understood as variety of computers connected along to share 
 Now {we will|we'll|we square measure going to} see however the individual computers in an exceedingly network are connected: 
 Computers connected in an exceedingly network square measure remarked as nodes.
 
-Star Topology:
+# Star Topology:
 
 In this case, there's a central node from that connections square measure provided to individual computers. during this case, albeit there's any drawback with a specific cable, the opposite computers will still operate undisturbed. On the flipside, this sort of affiliation needs heaps of cabling.
 

@@ -5,7 +5,6 @@ date: 2019-01-28 17:00:00+0200
 coverPhoto: https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/how-to-setup-website.jpg
 ---
 
-![](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/how-to-setup-website.jpg)
 
 It is quite natural that you have questions regarding owning an updated & responsive website. Having a question regarding revamping your current dull and monotonous website is nothing new and as a business owner, you shouldn't be afraid to express your view. However, does a credible, user-friendly website design truly matter? Out of curiosity, you have taken a day off from your managing duty and with a hot mug of coffee, you have started searching for a website designing company who can change the website for you. However, until now you are not convinced that the investment you are about to make to enhance the user experience will create more business! Despite your skepticism, if you search a bit about " advantages of great website design", you will find out almost every single study shows a well built, well managed, aesthetically pleasing and eye candy design have a huge impact on the success of small & large businesses.
 

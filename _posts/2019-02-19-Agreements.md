@@ -46,6 +46,3 @@ Your agreement should document expectations concerning system performance with c
 
 It is possible that your clients might trouble you with petty issues and make them seem as urgent. To avoid this scenario, you must define your priorities without any confusion. It gives your client a clear idea of what problems can be stated as urgent and which of them can wait a little longer for solutions.
 
-
-
-Article Source: http://EzineArticles.com/9865093

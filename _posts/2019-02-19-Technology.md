@@ -1,35 +1,65 @@
 ---
 layout: article
-title: "Artificial Intelligence: The Next Tech Bubble or the Changing Face of Technology"
+title: "Four Shortfalls of IT Delivery"
 date: 2019-02-19 13:09:00+0200
-coverPhoto: https://2.bp.blogspot.com/-bsECFpWVeQY/WmyAsJe3zWI/AAAAAAAAALQ/MJle5dh8s4UyvXOBSrKP93P41tWrBsf5wCLcBGAs/s1600/Capture.PNG
+coverPhoto: http://www.hotelsreviews24.com/wp-content/uploads/2018/12/Four-Shortfalls-of-IT-Delivery.png
 ---
 
-Did you know that five of the biggest tech giants viz. IBM, Microsoft, Google, Facebook, and Amazon have recently formed a partnership for the research and development of Artificial Intelligence?
 
-And these market leaders form just the top of the cream. Thousands of startups like Kwiziq, JamieAI, and Verv are blooming across the globe, investing in the development of upcoming AI era. So what is it that all these businesses have found in the potential of this technology that is driving them to hustle? And more importantly, why is it important for your business to participate and adapt to this futuristic technology?
 
-More efficient digital assistance
+Although the importance and the need for innovation and delivery through information technology have grown in recent years, some of the IT delivery requests do not yield the results and the benefits expected by the customers involved. It is crucial to understand why.
 
-Machines have since the beginning set themselves as important because of their ability to enhance human efficiency. Let's just assume what change in efficiency can be brought upon when these machines become actually intelligent; when they can make best possible decisions on their own, without being affected by the limiting constraints of human beings? There will be fewer errors, less unpredictable problems, and fewer delays, all of which will have a cumulative effect on the overall efficiency of any system.
+During 2017 we have conducted surveys to get feedback from business units on their assessment of the quality of the IT delivery during the year. The results of the surveys were balanced in relation to the effectiveness of IT delivery, but a few common themes were consistently highlighted which need to be addressed as critical areas of weakness and which will be discussed in this article.
 
-Digital marketing at its best
+We mainly identified top four shortfalls of IT delivery:
 
-Many companies are already in the process of garnering the potential power of artificial intelligence and are working with intelligent chatbots to enhance their marketing efforts. It is no wonder they have taken this route. Chatbots and other similar AI marketing solutions can take digital marketing to its extreme, where you can solve the queries of your potential customers, create interactive marketing campaigns, and resolve many repetitive and monotonous tasks without having to invest in multiple resources.
+I) Lack of a clear "agreement" between the IT team and the business units:
 
-Limitless exploration
+Often business units will go directly into finding the solution to an issue without thoroughly understanding the problem that is being addressed or the benefits of the solution. In order for an IT delivery to be successful an "Agreement document" needs to be prepared and accepted by the business unit with a clear description of the problem and a clear business case which includes a clear definition of the success factors for the project implementation.
 
-When it comes to exploration, biological boundaries of humans have always been considered as the biggest limitation. And it is not just the biological needs that have kept us from exploring inhospitable environments of space or underwater. These limitations are also in the form of our sensory perceptions. There are many wave patterns and frequencies that humans are simply unable to detect, this is why machines like the thermal camera that detects infrared waves have become so important for the seamless exploration even of our immediate environment. Machines with artificial intelligence can remove all these problems with a single stroke.
+An agreement document does not have to be a long drawn document, as the project document would include the details, but it is required to ensure that the final output of the IT delivery will meet the business unit's request and ensure that both sides have a common understanding of the problem and of the relative solution. The document should include at least the following items:
 
-Wide application scope and new opportunities
+Executive Summary.
+Deliverables (outputs).
+Schedule/Plan.
+Milestones: The milestones can be of type Customer Acceptance, Progress Measure, External Dependency and Benefits Realization. Milestones can occur beyond the end date of the initiative, especially for Benefit Realization. There should be at least 3 customer satisfaction milestones, at the start, middle and end.
+Budget and estimated costs.
+Prerequisites/Dependencies.
+Risks.
+Quality assurance: In addition to the standard quality assurance criteria, this section should include measurable success factors and define if an IT delivery is considered successful or not. If a project cannot identify the success factors needed for the successful implementation, the scope of the project could easily change during the implementation and the quality of the final phase of the project could easily be argued as there are no established measures of success. It is essential to have a measurable definition of the scope and what constitutes a successful implementation of the IT delivery.
+Without a documented agreement from the business units, IT delivery could easily become less effective or even a failure due to delayed implementation, changes in scope or disagreements on what is expected from the required delivery.
+II) Weak Project Management
 
-As opposed to the most recent technological developments, AI becomes more desirable because of its far-fledging application. Since most of the present technological advances are limited to the technological ground only, the field was losing its significance in other spheres of life. But with AI, such is not the case. Its potential has made it a most sought-after invention in the areas of medical science, financial systems, air transport, heavy mechanical industries, and even art.
+In general project managers need to be able to manage and coordinate all of the project logistics. Many of the project managers in IT usually focus on the delivery of the technological solution and do not address many other factors that are essential for successful IT delivery such as:
 
-Transitional Shift
+Planning (activities and resources)
+Defining Scope
+Time Estimating
+Cost Estimating
+Developing a Budget
+Documentation
+Managing Risks and Issues
+Monitoring and Reporting Progress
+Controlling Quality
+Benefits Realization
+While the above list seems to be obvious and is documented in every project management methodology, numerous IT deliveries fail as the project manager focuses on a subset of the above and is not able to balance all of the above responsibilities. The project manager should focus on enabling the business unit's expectations, delivery dates and should be able to differentiate between scope creep and valid user concerns if he/she wants to improve efficacy and reduce the number of project failures.
+III) Lack of adequate Planning:
 
-Unlike social media, AI is not a booming phase. It is the development of a completely new ecosystem that will change the technology as we know it today. There is no limit to what the future may hold when we come to the peak of AI development when intelligent machines will be working without the biological constraints of human bodies. It will continue to evolve at an exponential rate, solving perhaps, some of the most profound mysteries of the universe.
+In general, the performance of successful delivery is directly related to the effectiveness of the planning phase. Unfortunately, many IT teams are not patient and do not take the adequate time to have the thorough plan to achieve the requested goals. The lack of planning usually results in an untimely delivery of the solution, improper scope or objective delivered, and overspending the agreed cost/budget.
 
-At present, even with all its advancements, AI can still be considered in its newborn stage, and for all those businesses that aspire to survive and thrive through this transitional shift, it is extremely important for them to adapt.
+Most plans of successful projects had realistic milestones with unrealistic timeline; or they'll use outdated planning model that has nothing to do with today's business environment. IT delivery plans need to match with current business unit's trends, organizational objectives, as well as the end users' needs. If they don't, the project will quickly be doomed to fail.
+
+IV) Lack of Clear Communication
+
+Communication is key to the success of any IT delivery. Many IT teams engage with the business unit's during the pre-implementation phase while gathering requirements and designing the solution and then would disappear for a period of time during the implementation phase... Regular dialogue among executive management, project managers, and end users have always contributed to success in IT delivery. Many business units have mentioned lack of communication as a major factor for the shortfall of IT delivery, they felt left in isolation on numerous occasions and then presented with a problem or solution that has contributed to the failure of the whole objective. For success in any IT delivery, communication flow should be constant between the IT delivery project manager and business units.
+
+In conclusion, for IT delivery to improve you have to carefully address all the four elements listed above. Considering that IT teams focus on the technological solution and sometimes become complacent about executing the agreed deliverables, a tangible agreement document assists in managing the expected deliverables in an effective manner. This saves the two parties significant time and effort in clarifying the expectations and in determining the success of the IT delivery.
+
+```
+	Author: Omar Hajjar (Senior IT officer)
+	Food and Agriculture Organization of the United Nations (FAO)
+	The views expressed in this information product are those of the author(s) and do not necessarily reflect the views of the Food and Agriculture Organization of the United Nations (FAO).
+```
 
 
 

@@ -20,7 +20,7 @@ Python is a general-purpose language. It has wide range of applications from Web
 The syntax of the language is clean and length of the code is relatively short. It's fun to work in Python because it allows you to think about the problem rather than focusing on the syntax.
 
 # Reasons to Choose Python as First Language
-	* Simple Elegant Syntax
+* Simple Elegant Syntax
  Programming in Python is fun. It's easier to understand and write Python code. Why? The syntax feels natural. Take this source code for an example:
 
 ```python 

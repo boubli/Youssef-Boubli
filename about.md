@@ -62,7 +62,7 @@
 </style>
 <br />
 <center><img id="AsA" style="border-radius: 50%;  border: 1px solid #ddd;  padding: 5px; width: 200px; height: 200px" src="https://image.freepik.com/free-vector/workteam-background-design_1200-198.jpg">
-<h2 id="name">YOUSSEF BOUBLI</h2>
+<h2 id="name">ABOUT WEBSITE </h2>
 <br />
 <div class="drrT">
 	<p style="text-align: left;margin: 10px">A technical blog that is interested in publishing everything new in the world of technology, especially the programming of this code to enrich the content of the program.
@@ -72,7 +72,7 @@
 
 <br />
 <br />
-<center><h1>MY FRIENDS</h1></center>
+<center><h1>MY TEAM</h1></center>
 <br />
 <div class="row">
 

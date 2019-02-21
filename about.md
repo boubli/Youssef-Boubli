@@ -65,9 +65,7 @@
 <h2 id="name">YOUSSEF BOUBLI</h2>
 <br />
 <div class="drrT">
-	<p style="text-align: left;margin: 10px">Youssef Boubli 18 years old i was born in Geuilmim, i live in Agadir, Morocco, im programmer and designer i like Python language. <br /> 
-		A mysterious character I like to be isolated and singled out people for this work friends call me a Matrix because I am like his actions and actions but the name I like and which I call myself Raymond is a fictional character but I love this name. <br />
-		To learn programming through watching YouTube videos quickly I absorbed the lessons in a week I started to deepen the programming I did not study programming in institutes or colleges, but I think to study in the future in order to obtain a certificate. <br />
+	<p style="text-align: left;margin: 10px">A technical blog that is interested in publishing everything new in the world of technology, especially the programming of this code to enrich the content of the program />
 	</p>
 </div>
 </center>
@@ -92,7 +90,7 @@
     <div class="card">
       <img src="https://scontent.frak1-2.fna.fbcdn.net/v/t1.0-9/40797633_1850288325061389_6623252205119995904_n.jpg?_nc_cat=101&_nc_ht=scontent.frak1-2.fna&oh=2c3877875d0e4db8d5c4203c45152962&oe=5CE87279" alt="Jane" style="width:100%">
       <div class="container">
-        <center><h4>Taib Boumediane</h4></center>
+        <center><h4>Taib Boumedian</h4></center>
         <center><p class="title">WRITER</p></center><br />
       </div>
     </div>

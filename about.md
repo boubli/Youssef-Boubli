@@ -65,7 +65,7 @@
 <h2 id="name">YOUSSEF BOUBLI</h2>
 <br />
 <div class="drrT">
-	<p style="text-align: left;margin: 10px">A technical blog that is interested in publishing everything new in the world of technology, especially the programming of this code to enrich the content of the program />
+	<p style="text-align: left;margin: 10px">A technical blog that is interested in publishing everything new in the world of technology, especially the programming of this code to enrich the content of the program.
 	</p>
 </div>
 </center>

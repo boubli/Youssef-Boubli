@@ -61,7 +61,7 @@
 }
 </style>
 <br />
-<center><img id="AsA" style="border-radius: 50%;  border: 1px solid #ddd;  padding: 5px;" src="https://avatars0.githubusercontent.com/u/26576840?s=460&v=4">
+<center><img id="AsA" style="border-radius: 50%;  border: 1px solid #ddd;  padding: 5px;" src="https://image.freepik.com/free-vector/workteam-background-design_1200-198.jpg">
 <h2 id="name">YOUSSEF BOUBLI</h2>
 <br />
 <div class="drrT">

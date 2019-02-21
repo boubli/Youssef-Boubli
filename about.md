@@ -90,7 +90,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="https://scontent.frak1-2.fna.fbcdn.net/v/t1.0-9/48364607_1980139505409603_5721490513853415424_n.jpg?_nc_cat=102&_nc_ht=scontent.frak1-2.fna&oh=e034197f4412c8d7bb868640a48c5b9f&oe=5D23AE2A" alt="Jane" style="width:100%">
+      <img src="https://scontent.frak1-2.fna.fbcdn.net/v/t1.0-9/40797633_1850288325061389_6623252205119995904_n.jpg?_nc_cat=101&_nc_ht=scontent.frak1-2.fna&oh=2c3877875d0e4db8d5c4203c45152962&oe=5CE87279" alt="Jane" style="width:100%">
       <div class="container">
         <center><h4>Taib Boumediane</h4></center>
         <center><p class="title">WRITER</p></center><br />

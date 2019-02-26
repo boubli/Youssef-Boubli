@@ -1,0 +1,40 @@
+---
+layout: article
+title: "Using your Spam Filter"
+date: 2013-08-19 11:09:00+0200
+coverPhoto: https://i0.wp.com/resiliencepost.com/wp-content/uploads/2018/04/Gmail-spam-campaign-%E2%80%93-Annoying-not-a-hack.png?fit=1100%2C619&ssl=1
+---
+
+
+Spam emails are one of the main annoyances to Internet users. Anyone who has an email address and is an internet user has more than likely experienced spam at some point. The more you use the Internet and the more chat based web sites that you have interacted with as well as the more you have filled in online forms using your email address, the more spam that you are likely to receive.
+
+The most common use of a spam filter is for the removal of spam and computer viruses. Another less common use of a spam filter is to inspect outgoing emails to ensure that companies comply with appropriate laws.
+
+Most of the email programmes that are available today have some form of a spam filter already available within them. This automated spam filtering function can be set to a certain level depending on how much spam you receive. Spam filters were created in an attempt to limit and control the ever growing problem of spam. 
+
+These spam filters make filtering decisions based on matching regular expression within spam emails or the keywords within an email message will be checked as well as scanning the email address of the sender to see if they are regular senders of spam messages. 
+
+One of the main problems that people tend to experience when it comes to spam filtering software is that messages that they actually want to receive end up getting filtered. You have to be careful when it comes to spam filtering so that this doesn’t happen. 
+
+As spam filter setting are having to become more strict due to the increase in spam emails you need to make sure that you no what not to include in your email message to ensure that it doesn’t get filtered out as spam. Below are a list of the common features of email messages that are blocked by most spam filters:
+
+•	If the email has three or more CAPITALIZED words in the Subject line or has no text within the subject line
+•	Subject starts with Hello, Free or GUARANTEED etc 
+•	Subject line starts with Buy or Buying
+•	The email contains blank lines that make up a percentage of more than 70 
+•	Repeated, unnecessary double-quotation marks 
+•	The body of the email message mentions Viagra, no prescription, online Pharmacy etc
+•	There are attempts to disguise words within the email
+•	From field and reply to are empty
+•	Subject (or other fields) contains G.a.p.p.y-T.e.x.t with lots of spaces or underscores etc 
+•	Subject starts with dollar sign or amount 
+•	Address contains "free"
+•	Email contains an executable EXE BAT PIF etc (or DAT file Email sent from Apple Mac to PC issue) 
+•	Message is a saved web page 
+•	Font colour is the same as the background (invisible text)
+
+If you are attempting to send an email you need to ensure that your email message doesn’t contain any of the above. 
+
+Spam filter software is the best way of conquering the problem of spam, no other method will compare to the results that you will see and the positive affects of spam filtering completely outweigh the negative. 
+
+Helen is the web master of MySpamBin, home of all your Spam Filtering needs.

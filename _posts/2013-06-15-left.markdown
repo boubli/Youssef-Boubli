@@ -1,0 +1,78 @@
+---
+layout: article
+title: "Protect Your Data (Encrypt Your Files)"
+date: 2013-06-15 11:09:00+0200
+coverPhoto: https://www.goanywhere.com/assets/img/blog-images/2017/06/10EasyWaysBanner%20(1).png
+---
+
+Medical records, tax documents and other files with personal information are often stored on personal computers. If you don't encrypt files that include personal information, you risk making yourself an easy target for cybercriminals. Encrypted folders, which are referred to as vaults, can lock down your information, so it's unavailable to anyone without your password. 
+
+Encrypt-Stick is the most advanced portable security application available on the market today. Encrypt-Stick software converts your USB flash drive into a personal vault and the key to access and secure your private files. Encrypt-Stick requires a serial numbered USB flash drive to run. It gives you the ability to create unlimited invisible encrypted vaults on an unlimited number of computers, removable hard drives or networked drives. If a vault is burned to a DVD/CD you can securely access it using the original USB used to create the vault. Encrypt-Stick provides you with the highest level of protection from identity theft, hackers, phishers and will never leave a footprint on the host computer.
+
+With a USB drive in your pocket you can carry around personal notes, in-process documents from work, or even top secret military communications. But a hole in that pocket could quickly become a major security leak. Encrypt Stick 5.0 ($39.99 direct) equips any USB drive with a secure encrypted vault for safe data transport. It can also serve as the key for any number of local vaults on home or work PCs, and it has a secure browser and password manager built in. 
+
+Note - Once you've activated your software on a particular USB drive you can't move it to another drive. Before you install Encrypt Stick, you'll want to select a high- quality USB drive with as much storage capacity as you anticipate you'll ever need. Conveniently, you can install the Mac and Windows versions of the software on the same USB drive and access your protected files from either platform. Once you've downloaded Encrpt Stick (or using an installation CD/DVD) your ready to create an encrypted vault. 
+
+Creating An Encrypted Vault
+
+The setup wizard walks you through the steps necessary to install and activate Encrypt Stick on your USB drive. During this process you'll create a strong master password, something that you'll remember but that nobody would guess. The password-entry box has a built-in password strength meter to help you make a good choice. 
+
+Your home system probably doesn't have a malicious keylogger running, but if you're worried you can enter that strong password using Encrypt Stick's virtual keyboard. For added security against monitoring software the virtual keyboard scrambles the location of the characters. 
+
+Encrypt Stick uses your password, along with device-specific information, to generate a unique 512-bit (polymorphic) encryption key. That means your files are protected by two-factor authentication: something you have (the USB key), and something you know (the password). Gaining access to protected data requires both.
+
+The wizard includes a recommended optional step that makes a local backup of the decryption key. That way if you lose the USB drive containing Encrypt Stick, you can still recover encrypted files stored on your computer. Files on the lost drive itself are gone, of course, but at least nobody else will be able to read them.
+
+Vaults for File Protection
+
+On initialization, Encrypt Stick creates an encrypted folder right on the USB drive. When you've entered the master password, you can freely move files into and out of this folder or launch and edit the files. Outside of the Encrypt Stick interface nothing is visible except encrypted filenames and encrypted data.
+
+You can also create any number of vaults on any PC or Mac to protect local files on that system. Encrypt Stick acts as a key to open these locked vaults. The product's main window displays available vaults in its upper portion and offers a view of the unencrypted main file system in its lower portion.
+
+To encrypt one or more files you simply drag them onto a vault. When you copy files into a vault, Encrypt Stick offers to securely erase the originals. The help videos call this "military wipe," implying a connection with the DoD standard for overwriting files before deletion. Basically, it erases the data and writes over it 7 times for the minimum DoD standard.I It also definitely bypass' the Recycle Bin, which is sufficient to foil casual recovery of secure files.
+
+For additional security you can set Encrypt Stick to automatically lock after a period of inactivity (10 minutes by default) and require a periodic change of the main password (every 30 days by default). This is near military grade encryption (in a commercial usb casing).
+
+Private Browser
+
+Encrypt Stick includes a built-in private browser. When you're browsing from a "foreign" computer your favorites, history, cached files, and all other browsing traces remain on the device. Once you unplug the device nothing remains on the host computer.
+
+The private browser doesn't have every possible feature, but it does support tabbed browsing, and it can handle Flash and other popular content types. I was mildly annoyed to find that Ctrl+Enter in the address bar doesn't complete an address by adding "www." and ".com", but I didn't find any page that it couldn't display. I verified that no trace of surfing with the private browser remains behind on a host system.
+
+Encrypt Stick lacks the ability to take private browsing to another level with the option to browse using a fully encrypted secure session. This is what Intel Operators use when they are connected through a compromised network in a shady Internet café (the bad guys won't be able to sniff out private data from your network packets). 
+
+Limited Password Management
+
+Encrypt Stick also includes a password management system linked to its private browser. You can store any number of passwords and group them in a hierarchy of categories, but you'll do all the work yourself—copying and pasting URLs from your browser and manually entering username and password data (with an option to use the virtual keyboard for passwords).
+
+If you're setting up a new online account, you can use Encrypt Stick to generate a strong password. However, there's no provision to adjust the password generator to match a site's password policies. Key Safe's password generator lets you set the length and choose which character types to use. It even includes an option to create passwords like "purrPler0ks" that are easy to remember because you can pronounce them.
+
+Full-powered password managers automatically capture login data as you log in to a site manually using a supported browser. I was surprised to find that Encrypt Stick doesn't offer this level of automation, given that it has total control over the browser.
+
+Key Safe also lacks most features of full-featured password managers, but it does at least have the ability to automatically launch IE, navigate to a saved page, and fill in the login credentials. With Encrypt Stick you must click a link to open the URL in the private browser, then right-click the username and password fields individually to paste in the saved credentials. For some sites this right-click process didn't work; for others the "fill in" menu choices didn't appear.
+
+You can import existing passwords from a .CSV file, but it's not easy. To make use of a similar feature in Key Safe I simply took a file exported from LastPass and rearranged the data columns to the order expected by the import facility. Key Safe can also import directly from several other data types.
+
+Getting my LastPass data into a form that Encrypt Stick would accept took half an hour of manual editing. I did succeed in the end, but only after requesting a sample of the correct format from ENC Security Systems' tech support.
+
+Why didn't I just export a sample and study that to learn the format? The export to .CSV feature doesn't work. It produces a file, but the file is filled with gibberish. After some experimentation I determined that the "gibberish" is actually an encrypted copy of the password data, not the promised .CSV file. The password management feature could definitely use some work.
+
+I also checked the help system to see if it would explain the import process. Or rather, I tried. There is in fact no help system, just a link to the product's online FAQ. To get help for anything that is not covered in the FAQ you have to e-mail tech support.
+
+Eradicating The Kinks
+
+Encrypt Stick offers a good implementation of file protection by encryption. It uses two-factor authentication, and it can protect portable files on the device itself as well as local files on any number of other computers. The onboard private browser lets you surf the Web on a foreign PC without any risk of leaving private data behind.
+
+The password management doesn't seem as polished as the rest of the product. It looks good, but it lacks the automation that would make it actually useful. And its import/export system doesn't work quite right. If you're looking for a portable password manager, look elsewhere. Still, if you need encryption-based protection for local files and portable files, with private browsing as a bonus, Encrypt Stick can be quite useful.
+
+Pros
+
+Turns any USB drive into secure portable storage. Can create local encrypted folders with two -factor authentication. Private browser allows surfing on foreign PCs leaving no traces behind. Includes password management. Virtual keyboard for safe password entry. Generates strong passwords. Version 4.2 is freeware.
+
+Cons
+
+Password manager requires manual entry of all data. Limited ability to automatically open Web sites using saved credentials. Password import/export facility not working correctly. Can't configure password generator to match specific password policies.
+
+In Conclusion
+
+Encrypt Stick 5.0 turns any USB drive into secure portable storage for your important files. It also serves as the key to unlock local encrypted folders. An onboard private browser lets you surf without leaving traces. Its weak point is the password manager, which doesn't seem quite finished. It's all good though... I have it on my USB stick

@@ -1,0 +1,26 @@
+---
+layout: article
+title: "Warring On Spam through Bayesian Spam Filters"
+date: 2013-08-24 11:09:00+0200
+coverPhoto: http://www.peakinternet.com/blog/files/2016/12/most-email-spam-2015-Pir-1024x538.jpg
+---
+
+
+Bayesian Spam Filters war on spam through the following methods: email is assessed on the probability of it being either spam or legitimate; it builds its own list of characteristics; keeps on updating its list, learning from its mistakes, thereby increasing its accuracy.
+
+Email spam has become a normal part of our lives. One just cannot use email without receiving unwanted emails in large numbers. Over the years, various methods have been utilized to eliminate this problem, such as keyword-based filters, source blacklists, signature blacklists, source verification - singly and in various combinations - but spammers have always succeeded in staying ahead of such technologies. Moreover, some of the methods have had their own shortcomings. The keyword filters are not very accurate, and along with the blacklists, need to be constantly updated.
+
+Then 2002 saw a new technology come on the horizon that gave hope. Though first proposed by M. Sahami, S. Dumais, D. Heckerman, and E. Horvitz in "A Bayesian approach to filtering junk e-mail" in 1998, it caught everyone's attention after a paper by Paul Graham in 2002. Bayesian spam filtering technology gave hope of inboxes that could be spam free. In very simple terms, this technology is based on Bayesian statistical methods where an email is assessed on the probability of its being either spam or legitimate.
+
+Its Advantages
+
+The Bayesian spam filter can be trained by an individual user, who categorizes each email as either spam or not spam. After a few categorizations, the Bayesian filter starts to make categorizations on its own, and quite accurately. This is the plus point of the system. If the filter happens to make a mistake, you re-categorize the mail, and the filter learns from it, further increasing its accuracy. It is very simple to use and does not require complicated instructions.
+
+Bayesian spam filters are quite effective. The filter, once well trained, has a high success rate of eliminating incoming spam, and a very low false positive rate. Most spam emails may look the same, and have very similar characteristics; where as the characteristics of legitimate emails received by different individuals are very wide. The Bayesian spam filter builds its own list of characteristics of spam as well as legitimate elements in the message. It keeps on updating its list, learning from its mistakes, thereby increasing its accuracy.
+
+Based on this basic technology, there are several software packages available to select from. If you are looking to install a Bayesian spam filter, look to see the following features:
+
+It should support different operating systems
+It should support POP3 proxying
+Should be easy to install and have an easy way to categorize
+When picking software ensure that the filter accurately classifies the email. As Bayesian have to be trained, select the one that are easier to train. Some are easier to train than others. Training is done by coming in contact with both legitimate as well as spam mail - not a very pleasant thought.

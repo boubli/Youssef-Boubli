@@ -1,0 +1,37 @@
+---
+layout: article
+title: "Twitter prefers short URLs"
+date: 2013-06-05 11:09:00+0200
+coverPhoto: https://i0.wp.com/blackbriefcase.co/wp-content/uploads/2017/01/twitter-1848505.png?fit=1920%2C1080
+---
+
+
+Let's face it - the shorter and easier a website address (or URL = Uniform Resource Locator) is to type the more likely people will find it easily. If you have a website with a long URL like "theunreasonablyverylongebsiteaddress.co.tz" the chances of getting anyone to type that out correctly is remote.
+
+It will be far easier to ask them to type something like shorturl.com. Also if you are sending your website out on Twitter for example or wish to use AdWords the advantages are obvious. (Twitter severely limits the number of characters that may be used on a Tweet).
+
+The short URL is usually registered in a country such a Tonga (.to) or Tuvalu (.tv) which don't require domicile to use their countries extension. They redirect from the short URL to the underlying URL address.
+
+It is also often useful to disguise or hide the underlying URL address. This may be for perfectly legal business reasons but one must be careful. Some of these sites become blacklisted or put on spam blacklists. Some websites prevent redirected URLs from being posted because they are often used by websites trying to bypass a blacklist they have already been placed on.
+
+These shortened URLs usually use a foreign extension as some domain names are under the jurisdiction of that nation. 
+
+But there are other advantages of using a short URL or URL shortening services. They give full details of the traffic that these short URLs receive and redirect which enables one to target the advertising ever and ever more efficiently. 
+
+There is also a service that advertises your now shortened domain name (URL) on a whole series of the internet classified advertisements with no charge to yourself. All you have to do is subscribe to their service and they will do it for you. These free services are a fantastic offer as getting classified ads in places take quite a lot of effort.
+
+For a start the ad has to be composed and then the headline has to be written. Then one must compose a list of keywords and test them out to make sure that they will in fact attract visitors to your site.
+
+Keywords are of course key to this whole process. Get the keywords right and your website will get displayed. But of course before it does get displayed the search engine crawlers have to find it and rate it.
+
+The following increases your ratings:
+
+* Relevance: the website must relate to the item (keyword) being searched for.
+* Links: search engines give a lot of weight to the number of "quality" links to your website.
+* Fresh content. If the crawlers don't find new content often the site might become stale and drop in ratings (and of course number of times displayed).
+
+The search engines penalize keyword stuffing, lack of relevance and poor grammar.
+
+Using a short URL service is very important if you want to "tweet". All the other advantages are nice bonuses.
+
+Classified Ads Submission Freeware helps any website get themselves noticed on the Internet and will get traffic to their site.

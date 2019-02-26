@@ -1,0 +1,24 @@
+---
+layout: article
+title: "The History of Computer Viruses"
+date: 2013-07-13 11:09:00+0200
+coverPhoto: https://cdn.aarp.net/content/dam/aarp/money/scams_fraud/2017/07/1140-block-computer-viruses.imgcache.rev133bb5c6251c15a5be062626cda8519a.jpg
+---
+
+Computer viruses have a much longer history that most people would imagine. They predate the modern internet although the first viruses were purely technical excises in computer programing. It is not until the advent of large scale internet use that malicious computer viruses started to appear.
+
+The basic theory that underpins most types of PC virus was outlined in John von Nueman’s scienfic paper published back in 1966. The work titled "The Theory of Self-Reproducing Automata". Known as the last of great mathematicians von Nueman had also worked on the US nuclear program and instrumental in developing game theory.
+
+This theory was not used until 1971 when the first ever virus was released across the ARPANET network. The virus called Creeper spread across the network and infected DEC PDP-10 computers. When a computer was infected it displayed a message reading "I’m the creeper catch me if you can." The program was an experiment and the Reaper virus was released to clean up and remove the Creeper.
+
+The first anonymous virus was the Wabbit released in 1974 a self-replicating program that lead to a computer crash. This was followed by ANIMAL in 1975. This virus was attached to a program called PERVADE and it reproduced itself in the background and spread across computers as the program was shared. Although ANIMAL was a non-malicious virus it exploited holes in the OS of the computer and left the name of the Animal selected by PERVADE in all the directories and files that the user had access too.
+
+The Elk Cloner written by 15 year school student Rich Skrenta exploited issue with the Apple II boot system. The virus is widely viewed as the first large scale computer virus in the wild. In the wild referrers the fact that it was not contained with one lab or network. 
+
+The virus spread via the boot disk of the computer and every after every 50 infections of the boot disk it displayed a message in the form of a short poem. Skrenta who went onto a successful career in computer programming described Elk Cloner as dumb practical joke.
+
+After the Elk Cloner infected Apple machine virus that infected IBM computers followed. The ARF-ARF virus arrived in 1983 and the Trojan horse wiped out the computers directory by offering to sort it into alphabetical order. Although the Pakistani Flu virus appeared in 1986 it was the following year that saw a rapid increase in the number of computer infections.
+
+In 1987 the Vienna, Lehigh, Jerusalem, SCA and Christmas Tree Exec viruses all first appeared and attacked different aspects of computer operating systems. Other virus occurred in different locations around the globe. These included the Stoned virus in New Zealand, Ping Pong in Italy and the Cascade virus in the IBM offices in Belgium. This explosion in computer attacks resulted in IBM developing it’s own anti-virus software for the public. Before 1987 IBM’s anti-virus software had been for internal use only.
+
+These early computer infections were only the start of the problems created by PC virus. The rate and seriousness of the infections after the end of the 1980’s has resulted in the creation of the computer security industry. 

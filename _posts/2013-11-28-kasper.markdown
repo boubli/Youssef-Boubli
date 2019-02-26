@@ -1,0 +1,30 @@
+---
+layout: article
+title: "3 Reasons why your website speed matters"
+date: 2013-11-15 11:09:00+0200
+coverPhoto: https://www.eweev.com/sites/www.eweev.com/files/styles/blog-article-node/public/url1_0.png?itok=mSUsr8El
+---
+
+In general, people don’t like to wait, wherever they are, whatever they are doing. Everywhere we are, we witness impatient people cutting the line. It’s in the human's’ genes to get what we want when we want. And this applies also on our digital life. When looking for a piece of information on the internet, we might check several websites in order to find it as we need a clear answer straight away. Therefore, it is in the businesses benefit to have a website with a fast load time. But don’t worry, it’s up to the web agency who is creating the website to make it fast. 
+
+Here are 3 main reasons why your website should open in less than 2 seconds: 
+
+Yes, Website Speed IS an SEO Factor
+
+The fight for high ranking on search engines will never end. Every day, millions of businesses do their best in order to position their websites higher than the competition. For this, regular activities should be performed to optimize a website. And one of the very important factors of Search Engine Optimization (SEO) is improving website speed. 
+
+Google has secrets. Some of them are still undisclosed, and others have been revealed. What is no more a secret for SEO agencies, due to an announcement made in 2010, Google doesn’t like slow websites; therefore, they could be penalized in ranking. Of course, no business would want that, or else it will be outperformed by the competition with faster load page. 
+
+Faster access to information = better user experience
+
+Active internet users are faced with hundreds of information daily. This shows that the internet keeps them busy. And we all know that no busy person like to wait. So once users visit a website, they expect to receive the information needed as soon as they click on a page. Otherwise, they will look elsewhere. 
+
+This not only affects the user experience but also, in a more complicated way, the ranking of the website. To explain this point, we need your full attention. When a user accesses a slow website, he tends to quickly move away from it. The results of this action are 1) a high bounce rate (the percentage of website visitors who leave a site after viewing one page), 2) less opportunities for the content to be shared which is also an SEO factor, and 3) Google registers the website as irrelevant to the user’s need. As you can guess, these 3 points have a direct relation with the ranking of the website in SERP as it won’t be considered as a significant source of information.
+
+Mobile internet users are on the rise
+
+Since the big wave of smartphones, more and more people are accessing the internet via their mobile. In 2014, 94% of internet users in the Middle East surfed the web with their mobile. This represents a huge number for any business operating in the region. The main reason for users connecting online via their mobile is that they’d need information on-the-go, in other terms, as quick as possible. So making them wait results in the same consequences as the previous point. 
+
+In addition, a fast website speed is crucial for online stores, for the reasons mentioned and more. In 2015, around 50% of online shoppers used their mobile to purchase, which also represented a promising opportunity. Therefore, building an ecommerce website with a fast load time increases conversions. How? Well, as you probably know, in order to purchase online, a user passes through a process of several pages. So, a customer attempting to buy from a slow website will end up abandoning his cart. 
+
+In conclusion, several studies showed that internet users would wait on average 2 seconds for the page to load before losing patience. According to KissMetrics, a load page of 2 seconds has an abandonment rate of 10%. This rate increases to 25% when adding 2 more seconds to the load page. There are several tools to make sure that the web agency, when building your website, took into consideration the website speed. For example, check Pingdom in order to see if your site fits in the average or needs optimization for a better performance.

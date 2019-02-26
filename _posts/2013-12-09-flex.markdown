@@ -1,0 +1,64 @@
+---
+layout: article
+title: "I'll Give It To You, I Know What You Want"
+date: 2013-12-09 11:09:00+0200
+coverPhoto: https://weneedfun.com/wp-content/uploads/2015/09/Best-Quotes-Ever-11.jpg
+---
+
+
+
+"Baby, if you give it to me, I'll give it to you, I know that you want" famous rapper sang a few years ago. But in web development this principle works quite the opposite. The secret of web success is to give something to users in order to obtain their positive reaction. And the thing you need to ensure your users with is an optimal user experience or UX for short. Most people evaluate the websites and measure UX depending on the site loading speed and eye-catching design. Of course, these things are important and it's great that they excite people plus there are so many articles, practical guides and advice how to optimize and improve UX. However, there is one thing that people often overlook or forget to optimize. 
+
+Ask yourself a question how many times you concentrate on people that visit your website because they have a special purpose for stopping by. You consider just this segment of your audience, but forget to take into account people that discover your website accidentally through an organic search. Keep in mind that the ones who come to your website directly are familiar with you and know why they are here. On the other hand, the ones who visit your website for the first time have no idea about your content, services or products. Is your website optimized for this audience that finds your site when searching for something your company has or does? If the answer is yes, then you have nothing to do here, but if you said 'no' you should keep on reading. 
+
+Although search results bring approximately 70% of all web traffic, in fact, search engines are a #1 source of all traffic for websites, many business owners cannot work out how to gain more visitors using search engines and keep them busy with fascinating and relevant content. However, of course, there is a way to optimize the user experience for visitors that have just joined the game. This article focuses on a technique that determinates how users ended up at one of your pages. By using this method, you can satisfy visitors’ needs with a quality website.
+
+First of all, you should focus your design/content/services/products on the problem you desire to solve for your visitors. And with more than 90% of UX driving with search engines, you should pay special attention to optimizing a website for newbies. Below you can find a few pieces of advice that can help you to attract and keep new users. As an example, the content of the page will be considered as the main point of interest of the target clients, but the technique is applicable to any element of the website.
+
+Concentrate On User Goals
+
+Formerly, a few years ago, when business owners optimized content around the search, they concentrated their efforts around keywords. The Internet was full of practical guides and articles that stated that you should establish your website and the inside content around specific keywords that users type in the search bar in order to find something you specialize in. These guides advised business owners to do on- and off-page keyword optimization. The more measures you took the better the results would be because only this method can give you good ranking positions in SERP for selected keywords. In addition, there was a long tail strategy that focused on attracting visitors using content created around long keywords. 
+
+However, in most cases, nothing great happened. By focusing on keywords only, people ensure visitors who search for something specific via a particular keyword the negative user experience. Rather than hitting something they were looking for visitors end up at spammy pages the only purpose of which is to promote a specific service, product or website. In that case, searchers have to bounce between websites hoping to find the right one. But we have Google that realizes its users suffer and tries to fix the situation with new updated algorithms. Panda and Penguin penalize the websites that violate the rules and were previously ranked just for keywords. That's why in order to avoid penalization you should concentrate on user desires.
+
+Focus On User Needs
+
+Generally, the page that ranks well because it's optimized for a definite keyword needs to be able to fulfill desires and needs of a particular user. The page with a good ranking should focus on user aims they pursued when searching. The study conducted by The Gomez Report confirmed that almost 90% of all users after a bad experience at any website will never come back to these pages.
+
+Google can determine for sure what content provides good user experience and what is not working thanks to a number of clicks on the page, the overall time of the visit, actions taken on the page and other parameters. Basically, if you intend to be at least in TOP3 in Google SERP you should produce a quality content that can address user's needs. 
+
+Quality, Not Quantity
+
+Taking into consideration the fact that search engines know how to distinguish good content from a bad one, you need to focus all your efforts on creating the best possible content. In other words, for a specific target audience initiating a search and entering a particular keyword, the content on your page should be an answer to all questions. It should be informative, competent, good-quality and addressing user's needs and intents. To attract people it must be better than a content of other websites. 
+
+The research of MOZ conducted in 2014 showed that over 70% of users find what they need on the first page of an organic search. Third and second page helps almost 6% of users which is twelve times less than the first one. If your website is further than the 3rd page (actually if it's further than the first one) you should better optimize your site. Quite the same results we can observe at the TOP5 and TOP10. The first five results get almost 68% while the rest five receive 4%. We are aware that creating the best content is quite hard, however, the following tips will help you to determine what user wants and how to give him or her that. 
+
+- Monitor Page/Website Traffic And Competitors Pages
+
+To discover target audience’s needs and intentions, you should look at all possible data you will be able to find. Besides Google Analytics that linked to the page in 90% of cases, you should take a look at one more interesting tool. Google Search Console previously recognized as Google Webmaster Tool allows web professionals to receive a valuable statistic about a specific page that they analyze. 
+
+It can show you a list of search queries that ensure the maximum number of visits to a specific page, the number of click and impressions for each query. Firstly, look at your content considering the information you received and make a conclusion about the content. Does it make everything clear? Does your content leave any gaps? Is there any need to improve the content?
+
+Once you figure out what your target audience’s needs are and what it tries to achieve, your aim is to advance your content and optimize the queries that have not been addressed yet. Also, check the relevant pages of your competitors that outrank yours. Analyze what queries and users' intents these pages address to. This will give you a lot of insights about how to improve the content and optimize the website for more search queries.
+
+- Provide Quality Content
+
+At this point, all you should do is to improve your content in order to provide better user experience compared to that of your competitors. Expand the content with new keywords that your target audience is searching for and make sure that this content provides comprehensive and full answers to any possible intent the user may have. 
+
+- Use Our Tips To Reach TOP3 Faster
+
+#1 Write longer articles
+
+Besides the well-known truth that to be successful you should have a great number of articles, they have to be long. Recent studies have shown that longer articles rank higher in Google. The average length of the webpage that is in TOP10 for any keyword is 2,000 words.
+
+#2 Write Catchy Titles
+
+People often forget their own experience which tells them that everybody click on the content because they clap eyes on an attractive title. A great title can help you with a lot of things and give you a lot of benefits. First of all, it can convince the user to read an article. Second, it can help you to improve your rankings, get more clicks and overcome your competitors. And finally, provide a great user experience since it will answer user's intents.
+
+#3 Keep The Content Relevant And Updated
+
+Users, as well as Google, love relevant and updated content because it means that the author or authors care about the content quality and users as well. In addition, this factor can impact your ranking. For that reason, review your articles at least once in a while and then update an outdated information or delete articles about obsolete techniques or approaches. 
+
+Conclusion
+
+By using these tips and approaches you can significantly improve the user experience that the visitors of your website can receive and advance the content you provide. In addition, this advice can greatly promote your website and improve your rankings, so you can attract even more people from your target audience.

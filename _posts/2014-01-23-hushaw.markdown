@@ -1,0 +1,35 @@
+---
+layout: article
+title: "Email Secure"
+date: 2014-01-23 11:09:00+0200
+coverPhoto: https://sendgrid.com/wp-content/uploads/2016/11/84505337_thumbnail-960x672.jpg
+---
+
+
+Encryption and Decryption can be set individually or automatically according to your preferences. You can use the same e-mail client and address to send non encrypted e-mails, for communication with recipients that do not have encrypted e-mails.
+E-mails can be signed by the sender in order to guarantee authenticity to the recipient.
+There are no limitations on e-mail size or amounts that can be sent and received through our service.
+The Encryption keys that are generated will remain on your computer and nobody but you and the recipient will be able to read the e-mails.
+The encryption system is open source therefor compatible with all services that use Openpgp to encrypt/sign e-mail messages.
+Other e-mail clients can be used on the same computer with no incompatibility issues. 
+Main Features
+The most advanced features that today's most modern open source program can offer (Thunderbird).
+Encryption algorithms universally recognized as inviolable (TLS for transport and RSA with 2048 bit keys for encryption)
+No limitations on e-mail account size or size of the files that can be received or sent.
+Intuitive usage with no need for instructions.
+Completely guided initial encryption key generation.
+Anti spam system with intelligent auto-learning feature integrated.
+E-mail Anti-Virus system.
+"Portable" application the can be copied with no Installation requirements on Usb pen drives or other computers with transfer of all sent/received e-mails.
+Other domains are available other than kryptomail.net so as to not show the use of encrypted email systems in the e-mail address.
+- it is possible to use you own domain, simply configuring your Dns to point to our servers.
+
+Advantages
+Safe and private exchange of e-mails;
+Safe and private exchange of every size files (no e-mail account size limitations); trace
+No trace of the e-mails exchanged; works all over the world as long as there is Internet connection.
+Kryptotel is the ONLY service in the world that guarantees total privacy of the e-mail messages due to the inviolable encryption protocols in use and because of the absolute ABSENCE of logs. All other services present on the market today state that they will allow local authority to intercept/tap you e-mail account if requested to.
+First of all Kryptotel cannot do that because of the fact that the encryption keys are ONLY in the clients computer and second because of Kryptotel's Primary Company Mission. The right to private and safe communications is stated in the constitution of many countries (USA included). Kryptotel simply offers an instrument to guarantee everyone's rights. 
+It is not necessary to provide any personal data, unless a specific invoice is required. Only an email address where the configuration instructions and access password will be sent (best for your privacy that it is created for the occasion).
+It is possible to receive invoices from another company not connectable with Kryptotel.
+It is possible to pay in various way even anonymously if desired.

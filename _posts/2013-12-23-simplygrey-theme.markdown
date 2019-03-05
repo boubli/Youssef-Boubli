@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Using Forums in Affiliate Selling"
-date: 2013-12- 23 11:09:00+0200
+date: 2013-12-23 11:09:00+0200
 coverPhoto: https://cdn.lynda.com/course/585076/585076-636358943979838451-16x9.jpg
 ---
 

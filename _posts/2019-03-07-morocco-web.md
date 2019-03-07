@@ -11,9 +11,8 @@ Morocco Web Awards are considered to be the largest web-based competition held i
 
 We have participated in the 12th edition of this national competition and all we are looking for is to vote for us in order to move to the final stage. We know that we deserve this award. We have achieved the most in this year.
 
-# Voting Link
-[Here](https://vote.marocwebawards.com/tech/development-of-computer-vision-498)
+[Voting Link : Here](https://vote.marocwebawards.com/tech/development-of-computer-vision-498)
 
-![](https://serving.photos.photobox.com/8571309878fcb8be33a9336042c94b7fc4c8ca985e688df49dc2dbe090bef59a2de21feb.jpg)
+![](https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/53352599_112266823263077_3879415530641162240_o.jpg?_nc_cat=101&_nc_ht=scontent-cdt1-1.xx&oh=30e0b119068fe1a1ea5697860443d03a&oe=5D16A40E)
 
 The method of voting is easy. I will not explain the way because the content is technical. You have to know how to deal with such sites and find out if they are just fictitious or interesting links. 

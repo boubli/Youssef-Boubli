@@ -13,7 +13,7 @@ We have participated in the 12th edition of this national competition and all we
 
 #Voting Link
 
-!(https://vote.marocwebawards.com/tech/development-of-computer-vision-498)[Here]
+(https://vote.marocwebawards.com/tech/development-of-computer-vision-498)[Here]
 
 !()[https://serving.photos.photobox.com/8571309878fcb8be33a9336042c94b7fc4c8ca985e688df49dc2dbe090bef59a2de21feb.jpg]
 

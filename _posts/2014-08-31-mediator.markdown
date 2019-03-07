@@ -1,0 +1,122 @@
+---
+layout: article
+title: "This is science and it’s beautiful"
+date: 2014-08-31 11:09:00+0200
+coverPhoto: https://images.newscientist.com/wp-content/uploads/2019/02/27133006/periodic-table-800x533.jpg
+---
+
+
+I’m breaking a little protocol today and talking about my research over the past two years. I started this venture around the beginning of January of 2015, sounds benign enough but actually I had a very close friend, who had recently lost a relative to which they thought was under suspicious circumstances.
+
+A situation that for all intents and purposes, might rise to a dime store mystery novel. (no joke!) if I was inclined with the skill to write such things, I probably really would, anyway, without getting into the personal particulars of it all, there was a "white powdery" substance in a bottle that should not have been in there…yeah, getting it now? This friend asked me if there was anyway to find out what it was and I said yeah you can take it and get it analyzed, it’ll cost some money but it can be done.
+
+For whatever reason, that route was unacceptable and I wasn’t going to push it so, I said give some time and I’ll see what I can do. Having an engineering and chemistry background helps in matters of the scientific persuasion so, I figured I could maybe buy a spectrometer and do the job myself, ha ha ha, yeah right! I’m retired, not rich, turns out though, I came across a website called PublicLab where you can learn how to investigate environmental concerns and use inexpensive DIY spectrometer’s and techniques. So that’s where I bought my first spectrometer kit. Only problem was that, I didn’t realize the scope and magnitude that was about to unfold before me.
+
+The adventure was on though and I was hook-line and sinkered in! Even with all my research, upgrades and intense experimentation, I could only at best (and only with 60 percent probability,) determine what the original "white powdery" substance was, which for privacy’s sake I will not disclose here, my friend though, was so very grateful that I did try, and I was glad I did also. What a grand learning experience that was and still is, and from that is where the inspiration for the DAV5 V3.01 Raman spectrometer has come from.
+
+Even as I’m writing this, I think of the times of frustration and disappointment, mainly at myself, wanting to just give it up, "man why a I doing all this?" 12 – 15 hour days, and for what? I keep forgetting procedures, the order of things, ect., why? well having a stroke several years earlier didn’t do me any favors. So I developed a system of log books and these logs corresponded to files saved on my computer as a back up. I had to literally annotate just about every little thing I was doing, I have a short term memory problem, but as long as I have a log of my previous actions I can recall it pretty well.
+
+I have now over 1000 pages of notes and research, each page has it’s own tab with a short description of that page, and it’s worked out very well. So this is the adversity I must on a daily basis overcome, and I do it because I believe what I’m doing is significant on many levels, one being, the story I started at the beginning. I started to come to the realization just how expensive and far out of reach this technology really is, not just to your average citizen scientist or serious hobbyist, but to people I was coming in contact with everyday over on Hackaday.com. 
+
+I was interacting with brilliant individuals from Columbia, Slovakia, Chezania, and many others, all building incredible devices, with specific purposes in mind. Most of them out of sheer necessity, hey, when you are unable to afford a top of the line up to date piece of technology, your only choice is…to make it!
+
+This is the "hook" the inner beauty of all this, yeah I mix some philosophical connotation to all this but its the truth, at least as I am starting to understand it. This is why my project is not only important to me, but to many other’s as well, check this these stats out, they are the average cost of the "lower priced" Raman spectrometer’s that are available out there:
+
+Raman laser compare chart 2
+
+Ok lets digest this a little, these are the "top" 5 lower priced Raman specrometers (and if you can just bear with me, the next segment is why Raman spectroscopy is so vital in our every day lives,) you see the price ranges no? Imagine my friend in Colombia wanting to do vital research in molecular biology or genetics, with an average monthly salary of $692 (47% of the worldwide average) ranked 54 out of 72 countries on the global pay scale, one position higher than Ukraine ($686) and one position lower than Bulgaria ($750).Apr 13, 2012.
+
+Well I think you can start to get the idea here, now imagine my project and its benefits:
+
+Raman project BOM july 17
+
+DAV5 V3.01 Raman Spectrometer, total cost $657.35
+
+Big difference huh? This is the core principle, the vision I have for this project, and the best part is that it is becoming a reality, a testament I would say to at least me not giving up on it. This truly is my mission statement, I felt like I had to have one in order to stay focused and on point, it helped. Now I’m going to get into the details the why and how’s of all this and how this really impacts our lives without anyone really ever thinking about it.
+
+What Raman spectroscopy is, the measurement of the wavelength and intensity of inelastically (lacking flexability,) of scattered light in molecules. Raman scattered light occurs at wavelengths that are shifted from the incident light by energies of molecular vibrations.
+
+Important term #2 to remember, "molecular vibrations," these vibrations have a specific and non-changing frequency, their strengths are characterized in terms of "degrees," example;
+
+M, moderately strong
+M-S, moderate to strong
+M-VS, moderate to very strong
+S, strong
+VS, very strong
+VW, very weak
+W, weak
+W-M, weak to moderately strong
+W-VS, weak to very strong
+The math behind these forces are;
+
+R = < Xᵢ | a | Xⱼ >
+where Xᵢ and Xⱼ are the initial and final states, respectively, and a is the polarizability of the molecule:
+
+a = aₒ + (r-rₑ)(da/dr) + … higher terms
+where r is the distance between atoms and aₒ is the polarizability at the equilibrium bond length, rₑ. Polarizability can be defined as the ease of which an electron cloud can be distorted by an external electric field. Since aₒ is a constant and < Xᵢ | a | Xⱼ > = 0, R simplifies to;
+
+R = < Xᵢ | (r-rₑ)(da/dr) | Xⱼ >
+The result is that there must be a change in polarizability during the vibration for that vibration to inelastically scatter radiation.
+
+The poloarizability depends on how tightly the electrons are bound to the nuclei. In the symmetric stretch the strength of electron binding is different between the minimum and maximum internuclear distances. Therefore the polarizability changes during the vibration and this vibrational mode scatters Raman light (the vibration is Raman active).
+
+In asymmetric stretch the electrons are more easily polarized in the bond that expands but are less easily polarized in the bond that compresses. There is no over all change in polarizability and the asymmetric stretch is Raman inactive.
+
+Raman line intensities are proportional to:
+
+v∙ σ(v) ∙ |∙ exp(-Eᵢ|kT)∙C
+Where v is the frequency of the incident radiation. σ(v) is the Raman cross section, typically;
+
+10⁻²⁹ cm²
+I is the radiation intensity, exp(-Eᵢ|kT) is the Boltzman factor for state i, and C is the analyte concentration.
+
+Whew, now that was cryptic wasn’t it! That is the techy "basic" principle of Raman spectroscopy, how can such a seemingly obscure discipline be so important in our everyday lives…
+
+It can be used to rapidly characterize the chemical composition and structure of a sample, whether solid, liquid, gas, gel, slurry or powder.
+Compound distribution in tablets
+Blend uniformity
+High throughput screening
+API (air pollution index) concentration
+Powder content and purity
+Raw material verification
+Polymorphic forms
+Crystallinity
+Contaminant identification
+Combinatorial chemistry
+In vivo analysis and skin depth profiling
+You see the potential? It’s like a ripple effect, propagating it’s way through all other disciplines of science. Another example, which in my opinion is the best, is what Raman is all about; The "finger print," just like in a "CSI" weekly episode.
+
+Fingerprint-720x480-article-image This should look familiar, a human fingerprint begin scanned apparently on a finger print reader.
+
+sn-fingerprints_1 forensics 4
+
+Now this is the same print but analyzed under different protocols, and scientific techniques, the same premise applies to Raman, everything no mater if it is liquid, gas or a solid has a unique inner molecular signature that can be characterized and quantified.
+
+Abstract
+"Cancers are often impossible to visually distinguish from normal tissue. This is critical for brain cancer where residual invasive cancer cells frequently remain after surgery, leading to disease recurrence and a negative impact on overall survival. No preoperative or intraoperative technology exists to identify all cancer cells that have invaded normal brain. To address this problem, we developed a handheld contact Raman spectroscopy probe technique for live, local detection of cancer cells in the human brain. Using this probe intraoperatively, we were able to accurately differentiate normal brain from dense cancer and normal brain invaded by cancer cells, with a sensitivity of 93% and a specificity of 91%. This Raman-based probe enabled detection of the previously undetectable diffusely invasive brain cancer cells at cellular resolution in patients with grade 2 to 4 gliomas. This intraoperative technology may therefore be able to classify cell populations in real time, making it an ideal guide for surgical resection and decision-making."
+
+This came from an article @ Science Translational Medicine 1 Feb 2015.
+
+The advancements just keep on coming, see where this is all leading? The final 2 examples are going to tie up my points very nicely and then we will discuss the conclusions arrived at by all this:
+
+Fig4.1.8 gutenberg bible pic2
+
+This is a page from the Gutenberg Bible (original one at that!) This was accomplished using a variation of ATR (Attenuated total reflection,) is a sampling technique used in conjunction with infrared spectroscopy which enables samples to be examined directly in the solid or liquid state without further preparation.
+
+Characterization of Mummified Tissues
+
+In this work, the authors examined whether NIR-FT-Raman spectroscopy could be employed to determine to what extent human remains have been preserved, which have been subjected to artificial mummification. In addition, the purpose was to shed light on the methods and complex mummification techniques used by ancient Egyptians. Raman microscopic studies of human skin from the XIIth dynasty mummy, Nekht-Ankh, ca. 2100 BC, from the ‘Tomb of the Two Brothers’ (Khnum-Nakht and Nekht-Ankh) from Rifeh in Middle Egypt (Fig. 4.1.9), excavated from a hot desert environment, was carried out. The mummies were embalmed by natron, which absorbs water and is also mildly antiseptic, in the way used by ancient Egyptians.
+
+Fig4.1.9
+
+Kind of errie huh? Just look at the data below:
+
+Fig4.1.10 mummified tissue 3
+
+The amide I and III protein Raman bands were used to monitor the presence of proteins and to give an idea about the secondary protein structure. The lipids and proteins seemed well preserved, although different degrees of protein deterioration were observed. In some spots, protein degradation was extensive. Some sites showed very well preserved protein secondary structures with both helical and sheet contents, associated protein modes at 1660, 1450, and 1240 cm-1 (Fig. 4.1.10) indicating that the artificial mummification process had a positive effect although no embalming chemicals were left in those spots. Of significant interest is that the presence of residual chemicals in the skin tissues (Na2SO4 from the natron desiccant used in the mummification process), is correlated with the presence of the most degraded organic tissue and hence the most poorly preserved skin structure (Figs. 4.1.11, 4.1.10 and 4.1.11 with permission of J. Raman Spectrosc. 34 (2003) 375). 
+
+So to bring us back around home, yes these techniques are very precise and require an extensive working knowledge, I learned it in two years, and I had never done this before, just having the aptitude and desire helped me achieve my results so far.
+
+The prevailing goal of this project is in removing the mysteries surrounding this type of science and sciences akin to it, providing an easier and more accessible gateway for developing counties to continue along a path of greater technological progress. This can certainly be achieved through free educational pathways like my website and this projects ideals, yeah sounds lofty I know, but I’m actually doing it, I’m making the connections, the interpersonal ones that matter, like the examples I talked about in the beginning of this article.
+
+It’s now just a matter of putting the pieces of this project together, testing and calibrating and then releasing all of my data, its beautiful to me, and I do it all for free. I took it upon myself to just do it, I was going to do one thing in my life that made a difference, big or small, but it was going to make that difference.

@@ -1,0 +1,58 @@
+---
+layout: article
+title: "I'm Guilty Until Proven Innocent"
+date: 2014-07-27 11:09:00+0200
+coverPhoto: https://us.toluna.com/dpolls_images/2018/01/27/c1206e7d-eae3-4d9a-9fea-72e7bf7b8bbc_x365.jpg
+---
+
+
+
+No doubt about it. 
+
+"Spam" (unsolicited commercial email) threatens to paralyze and ultimately destroy the email system as it currently exists on the Internet. 
+
+Anyone with an email address can attest to the fact that the avalanche of Spam has only increased in the last year and shows no sign of stopping. 
+
+However, the current system many Internet Service Providers (ISP's) use to deal with Spam may just destroy the Internet's email system long before the spammers do. 
+
+Now, I won't deny that the weight of the Spam on any ISP's resources can rate very significant. 
+
+It's been estimated that between 30-60% of all email now sent is Spam! 
+
+This means that 30-60% and ISP's system resources (bandwidth, hardware, and system maintenance) go towards delivering messages nobody wants to receive. 
+
+Out of self-defense, many ISP's turn to third party services like Spam Cop, SPEWS (Spam Prevention Early Warning System), and SpamHaus to help them identify sources of spam and block the messages before their email systems get clogged. 
+
+No Trial - No Defense - Guilty! 
+
+In theory, it's a great system. 
+
+In practice, it creates a situation resembling a witch hunt where the accused gets burned at the stake without a trial, let alone the ability to face their accuser. Here's how the system works. 
+
+Let's say a business habitually sends legitimate email to its customers or prospects who asked to receive the email. 
+
+As long as nobody complains, life proceeds as normal. 
+
+But then let's say one of those people forgets they opted in to the business's email list and reports an email message as spam to one of the services I mentioned above. 
+
+Result: the business gets blacklisted by one or more of these services and ISP's in turn automatically block email (legitimate email) sent by the business to its customers and opt-in subscribers. 
+
+To make matters even worse, nobody at these anti-spam services bothers to let the business know they've been blacklisted. 
+
+When the business finally discovers their status and tries to contact Spam Cop, SPEWS or SpamHaus, the real fun begins. 
+
+If the business does discover which service(s) blacklisted them, they'll find they can't call anyone on the phone to discuss the problem. 
+
+They also discover these services are totally unregulated and there is no higher court of appeals. 
+
+Any email responses from these services often contain a smug attitude of assumed guilt that scoffs at your claims of innocence. 
+
+Also, don't bother asking for the opportunity to face your accuser in order to prove your innocence because they get to hide behind a cloak of anonymity. 
+
+Combining this attitude of assumed guilt with the inability to prove your innocence creates a recipe for disaster for every legitimate business. 
+
+Oh, by the way, while writing this article, I received 19 spam email messages through an ISP monitored by all 3 anti-spam services. 
+
+Makes you wonder, doesn't it? 
+
+In the end, the current system only creates opportunity for abuse that targets legitimate businesses while the real spammers just merrily keep sending their flood of email.

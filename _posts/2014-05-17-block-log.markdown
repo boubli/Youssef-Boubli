@@ -1,0 +1,28 @@
+---
+layout: article
+title: "What is Google Lens and How do you use it in SmartPhones?"
+date: 2014-05-17 11:09:00+0200
+coverPhoto: https://www.2basetechnologies.com/timthumb.php?w=760&q=80&src=/files/blog_images/blog_banner_1501648940.jpg
+---
+
+
+The CEO of Google Sundar Pichai put forward a new technology named Google Lens at the Google I/O developer conference. The main aim of this product is to influence and control the AI technology with Google’s computer vision with the objective of making your phone camera smarter than before. According to their viewpoint the camera of your smartphone will not just see what you see, rather it will understand your viewpoint thereby assisting you in taking further required action. Google Lens is thus a feature that makes your apps distinctively more useful. Pichai claimed that Lens will be available if you are using Google Photos or Google Assistant before it comes to other Google software. In fact, developers all over were quite impressed with its unique features.
+
+What is Google Lens?
+Google Lens is a computing capability that is a vision based whereby your smartphone can visualize and understand a video, photo or live feed. If you point your smartphone towards an object eg a flower it will communicate the type of the flower on the screen. Suppose you aim the phone towards a restaurant sign you will be able to see all information including reviews of the restaurant on the screen of your smartphone.
+
+Translation using Google Lens
+We all are familiar Google Translate is one of the language translation tools by google but it doesn't have the capability to translate the text shown in photos but in Google Lens to translate something, you need only snap a photo of it and call on Google Lens’ smarts. This method makes using Translate’s technology even simpler, and we’ll be much more likely to remember to use it in a pinch.
+
+Spot Finder
+Spot finder is one the feature of google lens. when visiting a new city by using google lens it will discover all the famous spot like restaurants, theater etc by scanning through google lens. The process is far simpler than getting the name, typing it into Google, and scanning through the results.
+
+Learning through Google Lens
+The learning feature of google lens shows the improve version of google goggles.Google Lens lets you snap a picture of just about anything, and then it will tell you everything you need to know about it like the information about the thing showing on photo.
+
+Automatic Network Connectivity
+Another great feature in Google Lens is that your phone will automatically connect to a network the moment you point your phone towards a router’s setting sticker. Here Google Lens can identify the name and password of the network offering you an option to connect to the network by tapping a button.If simultaneously used with Assistant, Google lens if pointed at a concert sign will instantly add the event to your calendar or even buy the concert tickets instantly if required. If your Google lens is activated you can even get image details about the existing pictures in your phone. This technology is making your camera from a passive to an active tool by not just capturing a picture but letting you interact with it too.
+
+Sundar Pichai further went to explain and show Google’s algorithms that can be used to enhance and cleanup photos. In case you are taking pictures of a soccer match through a chain like or wooden fence, Google Lens has the ability to remove the fence in the photo. Same is the case if the photo is taken in low light it will automatically enhance the photo making it less blurred with Google Lens.
+
+Lens has brought Google’s AI into the practical world by acting as a search box and also attracting youngsters towards the visual media. Google has displayed a consistency in focusing on what it actually does ie getting information from the web. Google by incorporating Google Lens into photos, the most used app has made it indispensable. The technology behind Lens tells us exactly where Google is going. Lens has thus made you less device centric on your mobile. News about Google Lens is making the people wait anxiously for this amazing new technology. The company still has not set a date for its launch but only confirmed that it will be arriving soon.

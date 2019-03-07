@@ -1,0 +1,19 @@
+---
+layout: article
+title: "SPAM: History and Prevalence"
+date: 2015-05-11 11:09:00+0200
+coverPhoto: https://historyofphilosophy.net/sites/historyofphilosophy.net/files/images/slideshow/egyptian-burial.jpg
+---
+
+
+The term Spam is thought to be derived from a Monte Python skit. But the fact that Spam makes up over 80 percent of emails sent isn't that funny!
+
+A Monte Python sketch performed in 1970 references the British rationing during World War II. SPAM was one of the only meat products that was readily available and not being rationed. Python's sketch is set in a café and every item on the menu contains Spam lunch meat. A song repeating the word SPAM is being sung and is drowning out the waiter who is dictating the SPAM filled menu in detail. 
+
+An instance of unsolicited commercial email was originally noted in 1978. Although it seems that the idea was born years earlier when an unsolicited electronic messaging using the media occurred by telegram in 1864! In the 1980's the term Spam started to be used to describe annoying users of early chat rooms who would repeatedly type the word Spam in an abusive manner to drive others out of the room. Especially others from rival groups surrounding said topic. They would also flood the screen with quotes from the Monte Python sketch in the same manner. Soon rather than being called flooding or trashing it became common place to refer to these methods as spamming. Later it evolved to mean excessive multiple posting of the same message. In the 1990's we began to see the excessive amount of "get rich quick" schemes being advertised in this manner. Commercial spamming began in 1994 courtesy of two lawyers advertising their immigration law services. Shortly there after the focus of spamming and anti spam efforts moved to email and that is where the focus of this phenomenon remains today.
+
+Most of us receive some type of Spam everyday. Spam is incredibly easy and inexpensive to create and can be very profitable. There are a number of companies set up to send "bulk e-mail". They are able to send billions of messages a day. In the US there have been a number of lawsuits concerning Spam and laws created trying to reduce the production. Therefore, it is becoming more prevalent that these companies operate out of foreign countries. They have also changed their soliciting methods to read "spam-free" which refers to a person who has chosen to "opt-in" by clicking a box near the end of some enrollment form thereby agreeing to have updates or newsletters sent. Sometimes this box is pre checked and you must unclick in order to "opt-out". These names are then sold to the bulk e-mailing companies.
+
+Spam filtering software is the best technology available at the present time to reduce Spam. Spam filtering is included in most versions of anti virus software. It is pretty simple for spammers to sidestep these filters simply by misspelling keywords. Also, these filters often block e-mail that you do want to receive because of key words being misinterpreted. SPAM hits other venues besides email such as instant messaging, chat rooms, newsgroups, forums, mobile phones, online games, search engines, and blogs. For the time being it looks like the only way to avoid a majority of Spam is to avoid traditional email all together. Requiring a person to fill out a form that is in turn sent to the recipient successfully blocks spammers. This is currently how many business and organizations including the White House are handling their e-mail. 
+
+The term Spam is thought to be derived from a Monte Python skit but is not received by many as being humorous. Spamming is a phenomenon that has been beneficial for some and a nuisance to the masses who make up the recipients of the billions of messages sent per day.

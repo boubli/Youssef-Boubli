@@ -1,0 +1,17 @@
+---
+layout: article
+title: "Why You Need To Worry About Spam"
+date: 2015-04-16 11:09:00+0200
+coverPhoto: https://image.slidesharecdn.com/damnspam-may2017-170807111435/95/damn-spam-what-you-need-to-know-about-avoiding-spam-filters-1-638.jpg?cb=1502112557
+---
+
+
+What is Spam? According to spam abuse .net "Spam is flooding the Internet with many copies of the same message, in an attempt to force the message on people who would not otherwise choose to receive it. Most spam is commercial advertising, often for dubious products, get-rich-quick schemes, or quasi-legal services. Spam costs the sender very little to send -- most of the costs are paid for by the recipient or the carriers rather than by the sender."
+
+What Are Some of Spam's Consequences? Wikipedia, the free encyclopedia advises, "Spam's direct effects include the consumption of computer and network resources, and the cost in human time and attention of dismissing unwanted messages. In addition, spam has costs stemming from the kinds of spam messages sent, from the ways spammers send them, and from the arms race between spammers and those who try to stop or control spam. In addition, there are the opportunity cost of those who forgo the use of spam-afflicted systems. There are the direct costs, as well as the indirect costs borne by the victims - both those related to the spamming itself, and to other crimes that usually accompany it, such as financial theft, identity theft, data and intellectual property theft, virus and other malware infection, child pornography, fraud, and deceptive marketing." Also they say, "The secondary consequence of spamming is that search engine indexes are inundated with useless pages, increasing the cost of each processed query."
+
+According to a new study released by the Federal Trade Commission, spammers continue to harvest email addresses from public areas of the Internet, but Internet Service Providers' anti-spam technologies can block the vast majority of spam sent to these email addresses. The FTC staff report also found that consumers who must post their e-mail addresses on the Internet can prevent them from being harvested by using a technique known as "masking."
+
+Why Lose Sleep Over Spammers? According to onguardonline.gov/botnet "Spammers can install hidden software on your computer in several ways. First, they scan the Internet to find computers that are unprotected, and then install software through those "open doors." Spammers may send you an email with attachments, links or images which, if you click on or open them, install hidden software. Sometimes just visiting a website or downloading files may cause a "drive-by download," which installs malicious software that could turn your computer into a "bot." The consequences can be more than just annoying: your Internet Service Provider (ISP) may shut down your account."
+
+Additionally they say "Computers that are taken over this way often become part of a robot network, known as a "botnet" for short. A botnet, also known as a "zombie army," usually is made up of tens or hundreds of thousands of home computers sending emails by the millions. Computer security experts estimate that most spam is sent by home computers that are controlled remotely, and that millions of these home computers are part of botnets."

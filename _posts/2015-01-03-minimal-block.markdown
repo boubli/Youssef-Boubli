@@ -1,0 +1,19 @@
+---
+layout: article
+title: "How Useful Are DNS Block Lists?"
+date: 2015-01-03 11:09:00+0200
+coverPhoto: https://www.cloudflare.com/img/learning/dns/what-is-dns/dns-record-request-sequence-2.png
+---
+
+
+DNS block lists can be a nice way to reduce the amount of email spam received by a mail server. They are usually cheap, easy to install and resource-friendly. As the name implies they work with the help of domain name servers. If a mail server uses DNS block lists it queries a name server for the address of a name built from the host name or IP address of the sending mail server and the name of the blocklist. Depending on the result of the query the mail message gets accepted or rejected.
+
+There are several different types of DNS block lists. They blacklist IP addresses or domain names according to different criteria. Depending on the type of the blocklist these could be hosts sending large amounts of spam, IP addresses that are dynamic and used for dial-up customers only, hosts that are believed to be hijacked and included into bot nets, hosts located in distinct countries and more. There may be valid reasons to reject mails from each of these types of hosts.
+
+Probably the first DNS block list was the Realtime Blackhole List (RBL) started by MAPS (Mail Abuse Prevention System). It is now a service you have to pay for but the majority of DNS block lists is still available for free.
+
+It is easy to include DNS block lists in the configuration of the most common mail servers (sendmail, postfix, exim, ...). The block lists are integrated on the server side and you save bandwidth because you don't need to receive the spam mails. The connections are rejected in the SMTP dialog between the sending and the receiving mail server. DNS block lists use a very low amount of resources from your mail server compared to spam or virus filters that have to analyze the contents of your mail messages.
+
+Of course there are disadvantages also. Probably the most important disadvantage is that you are outsourcing the decision whether you accept or reject mails from a certain source. If the sending mail server is listed in one of the blocklists you are using you will reject every mail from this server. Usually you will not know the administrator of the blocklist but you have to trust him that he adheres to the policy of the blocklist. Even if the admin is trustworthy sometimes there will be mail servers listed that shouldn't be on the blocklist. Imagine an ISP who has a lot of good customers but one customer who is a spammer. If the spammer sends out spam over the mail server of the ISP, the mail server may get listed on a blocklist. It will need some time until the ISP solves the problem with his bad customer and gets his mail server off the blocklist. In the meantime you will not receive mail from the good customers of this ISP. Another problem is that DNS blocklists don't live forever. If a blocklist is abandoned and your mail server still tries to query it, you may block mails that you wanted to receive.
+
+So how useful are DNS block lists after evaluating the pros and cons? They can be very useful to lower the overall CPU usage of your anti spam strategy. It is advisable to use a small number of carefully chosen blocklists. If you are using a block list, subscribe to the mailing list or newsletter of the organization who runs the block list. That way you will take note of any problems that the block list may have and you will be informed if it gets shut down. DNS blocklists should never be your only strategy against spam. They should be combined with other mechanisms to help keeping spam out of your inbox.

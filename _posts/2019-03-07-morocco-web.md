@@ -5,6 +5,7 @@ date: 2019-03-07 11:09:00+0200
 coverPhoto: http://www.lavieeco.com/wp-content/uploads/2016/03/Maroc-Web-Awards.jpg
 ---
 
+!()[http://www.lavieeco.com/wp-content/uploads/2016/03/Maroc-Web-Awards.jpg]
 
 Morocco Web Awards are considered to be the largest web-based competition held in the North Africa and Middle East region. Its primary objective is to support content creators and promote the opportunities offered by the Moroccan digital market, while celebrating, inspiring and cultivating the spirit of innovation and creativity.
 

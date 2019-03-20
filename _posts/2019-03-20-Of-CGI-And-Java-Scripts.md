@@ -1,0 +1,15 @@
+---
+layout: article
+title: "Of CGI And Java Scripts"
+date: 2019-03-20 11:09:00+0200
+coverPhoto: https://amp.thisisinsider.com/images/5ad90b1a045867da1c8b4675-750-563.jpg
+---
+
+CGI and Java Scripts are both functional with both Netscape and Internet Explorer browsers. But there is an essential difference between the two. Java functions as a code executed and downloaded in the clients' side while CGI operates with the server. Before probing deeper into the difference of the two, let us first try to understand these two often-used scripts.
+
+Java Script requires no special plug-ins, and it works transparently within an HTML page. It animates web page graphics, allows users to change page elements (background color, display preferences), and allows site navigation. Usually, Java Scripts are made up of two parts: the Java Script functions (the instructions for what the Java Script does on the page) and elements that cause the Java Script functions to execute. These two go in different ways. The Java Script functions are placed between special Java Script tags within the head tags in the HTML source. Java Scripts follow specific punctuation conventions. Usually, Java Script functions are the last element within the head tag. The elements that cause the Java Script to execute are placed within the body tags of the HTML source, depending on where the web page designer wants the Java Script to run. Because Java Script is included in the other HTML tags in the page source, a web page with Java Script elements will be saved in exactly the same format as a web page: the file type should be an ASCII text, and the file name should have the suffix .html appended to the end of it. The script's difference from CGI will not be clear unless we discuss both CGI and Java Scripts.
+
+CGI is the short version of Common Gateway Interface. It is commonly used in web pages because it allows interactivity by letting the web server respond to user input through a web page with CGI elements. A common example of CGI function is a web guest book. A web designer usually includes a web guest book in the web page so users and visitors can put in their suggestions. These suggestions are collected by the CGI and e-mailed to the designer. CGI and Java Scripts also have a similarity. Like in a Java Script, files used in CGI must be ASCII text with the suffix .html appended to the end of it. However, if a CGI script will be stored in the CGI bin, it is most likely that the file must be saved as a Perl document. Unlike Java Script, where the functions must reside within the head tags, form elements can be placed wherever the web page designer wants to put them. The only consideration is that to call the CGI script, HTML tags should come before the form elements of the page.
+
+Though both scripts have different functions, both CGI and Java Scripts have undoubtedly improve the way the internet works. They have also infiltrated the world of movies and televisions with digital films and fantastic characters. Who knows, maybe more uses of both scripts will be identified in the future.
+

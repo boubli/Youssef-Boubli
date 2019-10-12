@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "The Rapid Rise Of Video In The 21st Century"
-date: 2019-10-11 11:09:00+0200
+date: 2019-10-12 11:09:00+0200
 coverPhoto: https://26l0rf40k1nw2jjfqo285e63-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/social-video-marketing-1140x658.jpg
 ---
 

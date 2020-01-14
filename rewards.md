@@ -1,97 +1,152 @@
 <style type="text/css">
-
-.wrapper {
-  position: relative;
-  perspective: 40em;
-  display: grid;
-  transform-style: preserve-3d;
+  
+* {
+  box-sizing: border-box;
 }
 
-.card {
-  grid-area: 1 / 1;
-  height: 200px;
-  width: 400px;
-  transform: translateX(10px) rotateY(25deg) rotateX(10deg);
-  background: rgba(249, 198, 26, 0.88);
+.wrapper {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
-  padding: 30px;
-  color: #000;
-  text-transform: uppercase;
-  font-size: 60px;
-  font-weight: 900;
-  backface-visibility: hidden;
-  box-shadow: 0 10px 30px -3px rgba(0,0,0,.1);
+  font-family: Montserrat;
+  background: #262626;
+  width: 100%;
+  height: 100vh;
+}
+
+.outer {
+  position: relative;
+  background: #fff;
+  height: 350px;
+  width: 550px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  position: absolute;
+  top: 0px;
+  right: -20px;
+  z-index: 0;
+  animation-delay: 0.5s;
+}
+
+.content {
+  animation-delay: 0.3s;
+  position: absolute;
+  left: 20px;
+  z-index: 3
+  
 }
 
 h1 {
-  font-size: 60px;
-  font-weight: 900;
+  color: #111;
 }
 
-.card .enclosed {
-  background: #000;
-  line-height: 1;
-  color: rgba(249, 198, 26, 1);
-  padding: 0 5px;
-  display: inline-block;
-  transform: translate(-1px, 1px) scale(0.75);
-  transform-origin: right center;
-}
-
-.wrapper:before {
-  --bw: 9px;
-  grid-area: 1 / 1;
-  content: '';
-  backface-visibility: hidden;
-  height: 100%;
-  width: 100%;
-  margin-top: calc(-1 * var(--bw));
-  margin-left: calc(-1 * var(--bw));
-  background: transparent;
-  transform: translateX(-60px) rotateY(-30deg) rotateX(15deg) scale(1.03);
-  pointer-events: none;
-  border: var(--bw) solid #000;
-  box-sizing: content-box;
-}
-
-
-.wrapper:hover > div,
-.wrapper:hover:before {
-  transform: none;
-}
-
-
-.wrapper > div,
-.wrapper:before {
-  will-change: transform;
-  transition: .3s transform cubic-bezier(.25,.46,.45,1);
-}
-
-
-
-html,
-body {
-  height: 100%;
-}
-
-body {
-  display: grid;
-  place-items: center;
-  background:
-    linear-gradient(to bottom right, #3C4BBD 15%, transparent),
-    radial-gradient(circle at 100% 0%, rgba(255,255,255,.2) 10%, transparent 20%) center center / 15px 15px,
-    linear-gradient(to bottom right, #3C4BBD, #57ADD8);
-}
+p {
+  width: 280px;
+  font-size: 13px;
+  line-height: 1.4;
+  color: #aaa;
+  margin: 20px 0;
   
+}
+
+.bg {
+  display: inline-block;
+  color: #fff;
+  background: cornflowerblue;
+  padding: 5px 10px;
+  border-radius: 50px;
+  font-size: .7em;
+}
+.button {
+  width: fit-content;
+  height: fit-content;
+  margin-top: 10px;
+  
+  
+  
+}
+
+.button a {
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+  font-size: 11px;
+  color: #111;
+  text-decoration: none;
+  padding: 10px 15px;
+  border: 1px solid #aaa;
+  font-weight: bold;
+  
+  
+}
+
+.button a:after{
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -10px;
+  width: 0%;
+  background: #111;
+  height: 100%;
+  z-index: -1;
+  transition: width 0.3s ease-in-out;
+  transform: skew(-25deg);
+  transform-origin: right;
+}
+
+.button a:hover:after {
+  width: 150%;
+  left: -10px;
+  transform-origin: left;
+  
+}
+
+.button a:hover {
+  color: #fff;
+  transition: all 0.5s ease;
+}
+
+
+.button a:nth-of-type(1) {
+  border-radius: 50px 0 0 50px;
+  border-right: none;
+}
+
+.button a:nth-of-type(2) {
+  border-radius: 0px 50px 50px 0;
+}
+
+.cart-icon {
+  padding-right: 8px;
+  
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
 </style>
 
 
 <div class="wrapper">
-  <div class="card">
-    <h1>
-      <span class="enclosed">Cut</span>out
-    </h1>
+  <div class="outer">
+    <div class="content animated fadeInLeft">
+      <span class="bg animated fadeInDown">EXCLUSIVE</span>
+      <h1>Afro<br/> baseball hair</h1>
+      <p>Shadow your real allegiance to New York's Pirate radio with this cool cap featuring the Graphic Know Wave logo.</p>
+      
+      <div class="button">
+        <a href="#">$115</a><a class="cart-btn" href="#"><i class="cart-icon ion-bag"></i>ADD TO CART</a>
+      </div>
+      
+    </div>
+    <img src="https://bit.ly/2kOzUTm" width="300px" class="animated fadeInRight">
   </div>
+  <p class="footer">Based on the Silk UI Kit - DesignModo Market</p>
 </div>

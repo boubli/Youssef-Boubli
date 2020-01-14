@@ -9,7 +9,6 @@
   justify-content: center;
   align-items: center;
   font-family: Montserrat;
-  background: red ;
 }
 
 .outer {

@@ -13,6 +13,7 @@
 }
 
 .outer {
+  position: relative;
   background: #fff;
   height: 350px;
   width: 550px;

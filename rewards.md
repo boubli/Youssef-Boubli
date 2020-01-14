@@ -9,10 +9,10 @@
   justify-content: center;
   align-items: center;
   font-family: Montserrat;
+  background: red ;
 }
 
 .outer {
-  position: relative;
   background: #fff;
   height: 350px;
   width: 550px;
@@ -122,11 +122,6 @@ p {
   
 }
 
-.footer {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-}
 
 </style>
 
@@ -145,5 +140,4 @@ p {
     </div>
     <img src="https://bit.ly/2kOzUTm" width="300px" class="animated fadeInRight">
   </div>
-  <p class="footer">Based on the Silk UI Kit - DesignModo Market</p>
 </div>

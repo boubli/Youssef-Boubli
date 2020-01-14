@@ -88,7 +88,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-1/p160x160/80810343_745754315932857_5776075120074293248_o.jpg?_nc_cat=104&_nc_ohc=NwHLUBEun1AAX-A0bKk&_nc_ht=scontent-cdg2-1.xx&_nc_tp=1002&oh=dac8721fabce6518860ae4cb6b6fcf35&oe=5ED5957B" alt="Jane" style="width:100%">
+      <img src="https://srv-file4.gofile.io/download/L1JigM/IMG_1135__Edited.jpg" alt="Jane" style="width:100%">
       <div class="container">
         <center><h4>Ayoub Ahalmi</h4></center>
         <center><p class="title">WRITER</p></center><br />

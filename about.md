@@ -98,7 +98,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="https://scontent.frak1-2.fna.fbcdn.net/v/t1.0-9/52989682_272125973679134_5957723168356433920_n.jpg?_nc_cat=109&_nc_ht=scontent.frak1-2.fna&oh=2063c7d8b05e0e584070f0489eb7090b&oe=5CE875AF" alt="Jane" style="width:100%">
+      <img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/52546676_2219005524978293_7645858144198852608_n.jpg?_nc_cat=104&_nc_ohc=AFHlZuHLPi4AX8EjX5l&_nc_ht=scontent-cdg2-1.xx&oh=346e6eb0be4c2c176a33ee09ccaf0a33&oe=5ED8EEEE" alt="Jane" style="width:100%">
       <div class="container">
         <center><h4>Hamza Al Azizi</h4></center>
         <center><p class="title">SOFTWARE ENGINEER</p></center><br />

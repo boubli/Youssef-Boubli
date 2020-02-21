@@ -7,7 +7,7 @@ coverPhoto: https://i.udemycdn.com/course/750x422/2310306_6ffa_2.jpg
 
 It is common practice amongst ethical hackers to write nifty scripts and automate any structured process, ranging from small network scans to wide area network packet sniffing. In recent years, Python has become the language of choice for such tasks, and there are good reasons for this. In this article on ethical hacking using Python, we will discuss the reasons that make these two such a brilliant couple
 
-#Below is the list of topics we shall be going over:
+# Below is the list of topics we shall be going over:
 
 * What is ethical hacking?
 * What is Python?

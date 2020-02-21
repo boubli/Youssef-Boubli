@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Rising Demand for Rapid Application Development and the Top Five Players in the Market Today"
-date: 2020-02-21 11:09:00+0200
+date: 2020-02-22 11:09:00+0200
 coverPhoto: https://i.ibb.co/jzLHML2/3.jpg
 ---
 

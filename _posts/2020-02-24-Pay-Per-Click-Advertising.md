@@ -1,6 +1,6 @@
 layout: article
 title: "Pay Per Click Advertising"
-date: 2020-02-21 01:24:00+0200
+date: 2020-02-24 01:24:00+0200
 coverPhoto: https://seowithgoogle.com/wp-content/uploads/2019/05/Paid-Per-Click.jpg
 ---
 

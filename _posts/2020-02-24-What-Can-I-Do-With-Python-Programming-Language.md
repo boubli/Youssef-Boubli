@@ -37,7 +37,7 @@ While if you use it for website development purposes, you have tons of web devel
 
 ![Youssef Boubli](https://qph.fs.quoracdn.net/main-qimg-ed18fef07c0cd9ebebb74daf147a6275)
 
-Following are the features of Python:
+# Following are the features of Python:
 
 * Python makes everything simple as its codes are easy to read, write, and understand.
 * Python programming language is productive and helps in RAD (Rapid Application Development).
@@ -63,7 +63,7 @@ Today, Python’s real-world applications are limitless. You have web developmen
 
 Python programming language is used everywhere. Whatever you see, and use on the internet, has some of its parts made by using Python. No matter how you see it, Python uses are wide, and you after learning Python can use it in many ways.
 
-Here are some of the Python programing language uses:
+# Here are some of the Python programing language uses:
 
 * The Robonaut 2 robot in the International Space Station developed by NASA uses Python as its central command system. Also, we will see Python usage in Europes’s mission to Mars in 2020.
 * You can use Python to make a service that gives you bitcoins price notifications.

@@ -86,25 +86,6 @@
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-      <img src="https://srv-file4.gofile.io/download/L1JigM/IMG_1135__Edited.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <center><h4>Ayoub Ahalmi</h4></center>
-        <center><p class="title">WRITER</p></center><br />
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/52546676_2219005524978293_7645858144198852608_n.jpg?_nc_cat=104&_nc_ohc=AFHlZuHLPi4AX8EjX5l&_nc_ht=scontent-cdg2-1.xx&oh=346e6eb0be4c2c176a33ee09ccaf0a33&oe=5ED8EEEE" alt="Jane" style="width:100%">
-      <div class="container">
-        <center><h4>Hamza Al Azizi</h4></center>
-        <center><p class="title">SOFTWARE ENGINEER</p></center><br />
-      </div>
-    </div>
-  </div>
 
  
 <br />
